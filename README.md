@@ -8,7 +8,7 @@ A ML-powered personal fashion advisor built with Streamlit, Scikit-learn, Pandas
 
 ### 1. Install dependencies
 ```bash
-pip install -r requirements.txt
+pip install -r requirements(1).txt
 ```
 
 ### 2. Add your dataset
