@@ -10,16 +10,15 @@ from sklearn.svm import SVC
 from sklearn.preprocessing import LabelEncoder, MinMaxScaler
 from sklearn.metrics.pairwise import cosine_similarity
 import warnings
+from supabase import create_client, Client
 warnings.filterwarnings("ignore")
 
 # ─────────────────────────────────────────────
 # SUPABASE CONFIG  ← PASTE YOUR KEYS HERE
 # ─────────────────────────────────────────────
-SUPABASE_URL = "https://your-project-id.supabase.co"   # ← your project URL
-SUPABASE_KEY = "your-anon-public-key-here"              # ← your anon/public key
+SUPABASE_URL = st.secrets["SUPABASE_URL"]
+SUPABASE_KEY = st.secrets["SUPABASE_ANON_KEY"]
 # ─────────────────────────────────────────────
-
-from supabase import create_client, Client
 supabase: Client = create_client(SUPABASE_URL, SUPABASE_KEY)
 
 # ─────────────────────────────────────────────
