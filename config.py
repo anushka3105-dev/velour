@@ -1,6 +1,10 @@
+import os
+from dotenv import load_dotenv
 
-SUPABASE_URL = "https://wzdnthepblpxymniwmqq.supabase.co"  # ← paste your URL
-SUPABASE_KEY = "sb_publishable_wiIEOzvU9LxVjXxCElBL4w_m2ZtST_m"             # ← paste your anon key
+load_dotenv()
+
+SUPABASE_URL = os.getenv("SUPABASE_URL")
+SUPABASE_ANON_KEY = os.getenv("SUPABASE_ANON_KEY")
 
 OPENWEATHER_API_KEY = "your-openweathermap-key-here"   # ← paste your key
 
