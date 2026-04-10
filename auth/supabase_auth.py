@@ -37,6 +37,7 @@ def sign_up(username: str, password: str) -> dict:
         user = result.data[0]
 
         # Create empty profile row for this user
+        
         supabase.table("user_profiles").insert({"user_id": user["id"]}).execute()
 
         return {"success": True, "user": user}
