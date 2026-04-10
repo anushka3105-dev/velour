@@ -1,0 +1,701 @@
+Color_Preference,Body_Type,Gender,Age_Group,Weather,Occasion,Style_Preference,Budget_Range,Fabric_Preference,Fit_Preference,Intent
+Dark,Hourglass,Male,Adult (26-35),Cold & Windy,Party/Night Out,Streetwear,Budget (<₹1000),Synthetic/Polyester,Relaxed,Find color match
+Earthy,Rectangle,Male,Teen (13-17),Hot & Sunny,Party/Night Out,Classic/Preppy,Budget (<₹1000),Wool/Knit,Oversized,Layering tips
+Pastel,Rectangle,Non-binary,Adult (26-35),Hot & Sunny,Formal Event,Glamorous,Premium (₹5000-₹15000),Silk/Satin,Oversized,Weather-appropriate outfit
+Multicolor,Apple,Male,Teen (13-17),Mild/Pleasant,Office/Work,Vintage,Premium (₹5000-₹15000),Wool/Knit,Regular Fit,Get outfit recommendation
+Dark,Rectangle,Non-binary,Teen (13-17),Mild/Pleasant,Office/Work,Sporty,Premium (₹5000-₹15000),Wool/Knit,Oversized,Find color match
+Neutral,Petite,Male,Adult (26-35),Hot & Sunny,Party/Night Out,Bohemian,Luxury (₹15000+),Silk/Satin,Tailored,Accessory suggestion
+Pastel,Apple,Female,Young Adult (18-25),Snowy,Wedding Guest,Bohemian,Mid-range (₹1000-₹5000),Wool/Knit,Oversized,Style advice for body type
+Monochrome,Rectangle,Female,Senior (51+),Cold & Windy,Date Night,Minimalist,Mid-range (₹1000-₹5000),No preference,Slim Fit,Accessory suggestion
+Monochrome,Apple,Male,Young Adult (18-25),Humid,Date Night,Classic/Preppy,Luxury (₹15000+),Linen,Tailored,Style advice for body type
+Bold/Bright,Pear,Male,Senior (51+),Humid,Wedding Guest,Glamorous,Luxury (₹15000+),Silk/Satin,Oversized,Style advice for body type
+Earthy,Rectangle,Male,Teen (13-17),Hot & Sunny,Formal Event,Streetwear,Luxury (₹15000+),Wool/Knit,Slim Fit,Layering tips
+Monochrome,Inverted Triangle,Female,Senior (51+),Rainy,Festival,Minimalist,Budget (<₹1000),Synthetic/Polyester,Relaxed,Occasion-specific look
+Multicolor,Petite,Female,Teen (13-17),Rainy,Sports/Gym,Streetwear,Luxury (₹15000+),Cotton,Regular Fit,Style advice for body type
+Earthy,Hourglass,Non-binary,Adult (26-35),Snowy,Festival,Classic/Preppy,Mid-range (₹1000-₹5000),Silk/Satin,Oversized,Get outfit recommendation
+Earthy,Apple,Female,Teen (13-17),Hot & Sunny,Date Night,Sporty,Mid-range (₹1000-₹5000),Cotton,Oversized,Find color match
+Neutral,Petite,Female,Teen (13-17),Humid,Formal Event,Streetwear,Luxury (₹15000+),Wool/Knit,Oversized,Occasion-specific look
+Earthy,Plus-size,Non-binary,Mid Adult (36-50),Cold & Windy,Festival,Classic/Preppy,Premium (₹5000-₹15000),Linen,Regular Fit,Fabric suggestion
+Earthy,Rectangle,Male,Young Adult (18-25),Cold & Windy,Office/Work,Vintage,Budget (<₹1000),Wool/Knit,Relaxed,Weather-appropriate outfit
+Earthy,Pear,Male,Teen (13-17),Snowy,Casual Outing,Classic/Preppy,Budget (<₹1000),Cotton,Regular Fit,Find color match
+Earthy,Pear,Female,Mid Adult (36-50),Cold & Windy,Festival,Streetwear,Luxury (₹15000+),Denim,Tailored,Layering tips
+Pastel,Hourglass,Male,Mid Adult (36-50),Rainy,Sports/Gym,Glamorous,Luxury (₹15000+),No preference,Slim Fit,Find color match
+Neutral,Rectangle,Non-binary,Adult (26-35),Hot & Sunny,Party/Night Out,Classic/Preppy,Mid-range (₹1000-₹5000),Wool/Knit,Tailored,Style advice for body type
+Monochrome,Pear,Female,Mid Adult (36-50),Cold & Windy,Office/Work,Business Casual,Budget (<₹1000),Cotton,Relaxed,Get outfit recommendation
+Neutral,Plus-size,Male,Young Adult (18-25),Mild/Pleasant,Beach/Vacation,Business Casual,Mid-range (₹1000-₹5000),No preference,Tailored,Get outfit recommendation
+Pastel,Rectangle,Male,Mid Adult (36-50),Rainy,Beach/Vacation,Sporty,Luxury (₹15000+),Synthetic/Polyester,Relaxed,Fabric suggestion
+Pastel,Pear,Female,Young Adult (18-25),Hot & Sunny,Job Interview,Minimalist,Premium (₹5000-₹15000),Cotton,Slim Fit,Fabric suggestion
+Earthy,Plus-size,Non-binary,Young Adult (18-25),Hot & Sunny,Festival,Bohemian,Mid-range (₹1000-₹5000),Cotton,Relaxed,Find color match
+Dark,Plus-size,Male,Mid Adult (36-50),Hot & Sunny,Job Interview,Classic/Preppy,Budget (<₹1000),Wool/Knit,Slim Fit,Layering tips
+Dark,Inverted Triangle,Non-binary,Senior (51+),Rainy,Wedding Guest,Classic/Preppy,Premium (₹5000-₹15000),Denim,Regular Fit,Layering tips
+Pastel,Petite,Non-binary,Adult (26-35),Mild/Pleasant,Date Night,Bohemian,Budget (<₹1000),Linen,Relaxed,Find color match
+Neutral,Inverted Triangle,Male,Senior (51+),Rainy,Formal Event,Vintage,Budget (<₹1000),Denim,Regular Fit,Occasion-specific look
+Pastel,Rectangle,Non-binary,Adult (26-35),Humid,Festival,Minimalist,Premium (₹5000-₹15000),Synthetic/Polyester,Slim Fit,Style advice for body type
+Bold/Bright,Hourglass,Male,Senior (51+),Cold & Windy,Wedding Guest,Sporty,Mid-range (₹1000-₹5000),Synthetic/Polyester,Regular Fit,Weather-appropriate outfit
+Dark,Petite,Female,Senior (51+),Mild/Pleasant,Wedding Guest,Minimalist,Budget (<₹1000),Synthetic/Polyester,Tailored,Occasion-specific look
+Neutral,Hourglass,Female,Young Adult (18-25),Snowy,Wedding Guest,Streetwear,Luxury (₹15000+),Wool/Knit,Tailored,Get outfit recommendation
+Neutral,Hourglass,Non-binary,Young Adult (18-25),Humid,Casual Outing,Vintage,Mid-range (₹1000-₹5000),Linen,Oversized,Get outfit recommendation
+Bold/Bright,Apple,Male,Adult (26-35),Cold & Windy,Party/Night Out,Bohemian,Premium (₹5000-₹15000),No preference,Relaxed,Layering tips
+Earthy,Petite,Male,Young Adult (18-25),Cold & Windy,Formal Event,Glamorous,Budget (<₹1000),Denim,Regular Fit,Layering tips
+Multicolor,Petite,Non-binary,Young Adult (18-25),Rainy,Formal Event,Bohemian,Luxury (₹15000+),No preference,Slim Fit,Fabric suggestion
+Pastel,Pear,Female,Adult (26-35),Rainy,Party/Night Out,Classic/Preppy,Budget (<₹1000),Synthetic/Polyester,Oversized,Layering tips
+Bold/Bright,Apple,Male,Adult (26-35),Rainy,Festival,Glamorous,Premium (₹5000-₹15000),Cotton,Slim Fit,Occasion-specific look
+Pastel,Inverted Triangle,Female,Teen (13-17),Hot & Sunny,Job Interview,Glamorous,Premium (₹5000-₹15000),Synthetic/Polyester,Regular Fit,Layering tips
+Earthy,Inverted Triangle,Male,Mid Adult (36-50),Humid,Party/Night Out,Sporty,Budget (<₹1000),Synthetic/Polyester,Tailored,Get outfit recommendation
+Earthy,Plus-size,Non-binary,Young Adult (18-25),Rainy,Sports/Gym,Bohemian,Premium (₹5000-₹15000),Wool/Knit,Regular Fit,Find color match
+Dark,Apple,Non-binary,Adult (26-35),Snowy,Sports/Gym,Vintage,Luxury (₹15000+),Synthetic/Polyester,Regular Fit,Style advice for body type
+Pastel,Rectangle,Non-binary,Mid Adult (36-50),Snowy,Formal Event,Sporty,Luxury (₹15000+),Wool/Knit,Slim Fit,Occasion-specific look
+Bold/Bright,Pear,Female,Senior (51+),Humid,Date Night,Business Casual,Luxury (₹15000+),Linen,Oversized,Fabric suggestion
+Multicolor,Plus-size,Non-binary,Young Adult (18-25),Snowy,Office/Work,Sporty,Premium (₹5000-₹15000),Cotton,Oversized,Occasion-specific look
+Pastel,Plus-size,Male,Young Adult (18-25),Hot & Sunny,Casual Outing,Classic/Preppy,Luxury (₹15000+),Wool/Knit,Slim Fit,Fabric suggestion
+Monochrome,Petite,Non-binary,Young Adult (18-25),Snowy,Sports/Gym,Business Casual,Luxury (₹15000+),Denim,Oversized,Get outfit recommendation
+Multicolor,Plus-size,Male,Mid Adult (36-50),Cold & Windy,Formal Event,Business Casual,Budget (<₹1000),Wool/Knit,Oversized,Find color match
+Monochrome,Pear,Female,Senior (51+),Humid,Job Interview,Vintage,Luxury (₹15000+),Wool/Knit,Relaxed,Layering tips
+Multicolor,Inverted Triangle,Female,Young Adult (18-25),Snowy,Beach/Vacation,Business Casual,Premium (₹5000-₹15000),No preference,Oversized,Occasion-specific look
+Multicolor,Plus-size,Non-binary,Mid Adult (36-50),Snowy,Party/Night Out,Sporty,Luxury (₹15000+),Cotton,Regular Fit,Weather-appropriate outfit
+Bold/Bright,Apple,Female,Senior (51+),Hot & Sunny,Formal Event,Streetwear,Mid-range (₹1000-₹5000),Linen,Oversized,Weather-appropriate outfit
+Neutral,Rectangle,Female,Adult (26-35),Humid,Beach/Vacation,Glamorous,Budget (<₹1000),Denim,Tailored,Layering tips
+Multicolor,Inverted Triangle,Non-binary,Teen (13-17),Humid,Sports/Gym,Business Casual,Budget (<₹1000),Silk/Satin,Regular Fit,Layering tips
+Multicolor,Plus-size,Female,Senior (51+),Snowy,Festival,Classic/Preppy,Luxury (₹15000+),Denim,Regular Fit,Layering tips
+Monochrome,Hourglass,Female,Adult (26-35),Snowy,Sports/Gym,Streetwear,Luxury (₹15000+),Denim,Relaxed,Get outfit recommendation
+Monochrome,Inverted Triangle,Non-binary,Teen (13-17),Hot & Sunny,Sports/Gym,Streetwear,Luxury (₹15000+),Denim,Slim Fit,Occasion-specific look
+Monochrome,Apple,Male,Mid Adult (36-50),Rainy,Date Night,Glamorous,Premium (₹5000-₹15000),No preference,Tailored,Occasion-specific look
+Multicolor,Hourglass,Female,Teen (13-17),Snowy,Festival,Minimalist,Premium (₹5000-₹15000),Denim,Slim Fit,Get outfit recommendation
+Multicolor,Hourglass,Male,Young Adult (18-25),Hot & Sunny,Job Interview,Streetwear,Mid-range (₹1000-₹5000),Denim,Tailored,Find color match
+Earthy,Pear,Female,Adult (26-35),Rainy,Formal Event,Bohemian,Mid-range (₹1000-₹5000),Silk/Satin,Slim Fit,Get outfit recommendation
+Bold/Bright,Inverted Triangle,Non-binary,Mid Adult (36-50),Mild/Pleasant,Party/Night Out,Bohemian,Mid-range (₹1000-₹5000),Cotton,Regular Fit,Find color match
+Multicolor,Inverted Triangle,Male,Adult (26-35),Humid,Sports/Gym,Vintage,Budget (<₹1000),Wool/Knit,Regular Fit,Get outfit recommendation
+Multicolor,Rectangle,Female,Teen (13-17),Mild/Pleasant,Date Night,Business Casual,Mid-range (₹1000-₹5000),Linen,Oversized,Occasion-specific look
+Earthy,Plus-size,Non-binary,Mid Adult (36-50),Mild/Pleasant,Sports/Gym,Sporty,Premium (₹5000-₹15000),No preference,Oversized,Find color match
+Bold/Bright,Rectangle,Male,Mid Adult (36-50),Humid,Job Interview,Glamorous,Premium (₹5000-₹15000),Cotton,Tailored,Accessory suggestion
+Pastel,Rectangle,Male,Adult (26-35),Rainy,Date Night,Sporty,Premium (₹5000-₹15000),Wool/Knit,Slim Fit,Weather-appropriate outfit
+Neutral,Pear,Non-binary,Mid Adult (36-50),Mild/Pleasant,Festival,Classic/Preppy,Luxury (₹15000+),Synthetic/Polyester,Tailored,Fabric suggestion
+Multicolor,Hourglass,Male,Adult (26-35),Cold & Windy,Sports/Gym,Classic/Preppy,Premium (₹5000-₹15000),Synthetic/Polyester,Relaxed,Accessory suggestion
+Monochrome,Inverted Triangle,Non-binary,Adult (26-35),Mild/Pleasant,Festival,Vintage,Premium (₹5000-₹15000),Synthetic/Polyester,Tailored,Occasion-specific look
+Bold/Bright,Apple,Male,Teen (13-17),Snowy,Party/Night Out,Vintage,Budget (<₹1000),Synthetic/Polyester,Relaxed,Style advice for body type
+Pastel,Pear,Non-binary,Mid Adult (36-50),Rainy,Job Interview,Sporty,Budget (<₹1000),No preference,Oversized,Occasion-specific look
+Pastel,Apple,Male,Adult (26-35),Hot & Sunny,Festival,Streetwear,Premium (₹5000-₹15000),Cotton,Slim Fit,Occasion-specific look
+Dark,Pear,Non-binary,Mid Adult (36-50),Hot & Sunny,Casual Outing,Sporty,Luxury (₹15000+),Linen,Tailored,Accessory suggestion
+Pastel,Hourglass,Female,Mid Adult (36-50),Hot & Sunny,Office/Work,Glamorous,Luxury (₹15000+),Cotton,Relaxed,Get outfit recommendation
+Pastel,Pear,Non-binary,Adult (26-35),Hot & Sunny,Party/Night Out,Bohemian,Luxury (₹15000+),Wool/Knit,Relaxed,Weather-appropriate outfit
+Multicolor,Inverted Triangle,Female,Mid Adult (36-50),Mild/Pleasant,Wedding Guest,Glamorous,Premium (₹5000-₹15000),Wool/Knit,Relaxed,Get outfit recommendation
+Earthy,Petite,Male,Young Adult (18-25),Snowy,Party/Night Out,Sporty,Budget (<₹1000),Denim,Oversized,Style advice for body type
+Earthy,Hourglass,Male,Teen (13-17),Mild/Pleasant,Beach/Vacation,Business Casual,Premium (₹5000-₹15000),Cotton,Oversized,Occasion-specific look
+Dark,Apple,Non-binary,Mid Adult (36-50),Hot & Sunny,Party/Night Out,Sporty,Mid-range (₹1000-₹5000),Linen,Slim Fit,Weather-appropriate outfit
+Dark,Pear,Female,Young Adult (18-25),Hot & Sunny,Casual Outing,Streetwear,Premium (₹5000-₹15000),Wool/Knit,Relaxed,Occasion-specific look
+Monochrome,Hourglass,Female,Adult (26-35),Snowy,Sports/Gym,Sporty,Luxury (₹15000+),Linen,Slim Fit,Get outfit recommendation
+Monochrome,Petite,Female,Senior (51+),Rainy,Casual Outing,Bohemian,Mid-range (₹1000-₹5000),Synthetic/Polyester,Relaxed,Get outfit recommendation
+Multicolor,Petite,Female,Senior (51+),Hot & Sunny,Formal Event,Business Casual,Luxury (₹15000+),Silk/Satin,Oversized,Layering tips
+Dark,Plus-size,Female,Teen (13-17),Mild/Pleasant,Date Night,Glamorous,Premium (₹5000-₹15000),Silk/Satin,Slim Fit,Style advice for body type
+Bold/Bright,Rectangle,Non-binary,Mid Adult (36-50),Rainy,Sports/Gym,Minimalist,Luxury (₹15000+),Cotton,Regular Fit,Occasion-specific look
+Bold/Bright,Hourglass,Female,Senior (51+),Hot & Sunny,Festival,Business Casual,Luxury (₹15000+),Cotton,Oversized,Accessory suggestion
+Earthy,Plus-size,Female,Mid Adult (36-50),Hot & Sunny,Party/Night Out,Sporty,Mid-range (₹1000-₹5000),Silk/Satin,Tailored,Fabric suggestion
+Neutral,Hourglass,Non-binary,Senior (51+),Cold & Windy,Formal Event,Sporty,Budget (<₹1000),Wool/Knit,Tailored,Find color match
+Pastel,Plus-size,Male,Mid Adult (36-50),Hot & Sunny,Formal Event,Business Casual,Premium (₹5000-₹15000),Wool/Knit,Regular Fit,Layering tips
+Multicolor,Rectangle,Female,Young Adult (18-25),Mild/Pleasant,Festival,Streetwear,Luxury (₹15000+),Denim,Relaxed,Style advice for body type
+Multicolor,Hourglass,Female,Mid Adult (36-50),Rainy,Festival,Sporty,Budget (<₹1000),Silk/Satin,Regular Fit,Fabric suggestion
+Multicolor,Pear,Female,Senior (51+),Mild/Pleasant,Date Night,Vintage,Luxury (₹15000+),Linen,Regular Fit,Weather-appropriate outfit
+Dark,Pear,Non-binary,Mid Adult (36-50),Cold & Windy,Sports/Gym,Minimalist,Premium (₹5000-₹15000),Synthetic/Polyester,Tailored,Layering tips
+Monochrome,Petite,Non-binary,Young Adult (18-25),Mild/Pleasant,Casual Outing,Streetwear,Premium (₹5000-₹15000),No preference,Slim Fit,Fabric suggestion
+Neutral,Inverted Triangle,Female,Teen (13-17),Snowy,Formal Event,Glamorous,Mid-range (₹1000-₹5000),Cotton,Tailored,Occasion-specific look
+Bold/Bright,Inverted Triangle,Non-binary,Mid Adult (36-50),Snowy,Office/Work,Vintage,Luxury (₹15000+),Silk/Satin,Tailored,Get outfit recommendation
+Earthy,Hourglass,Male,Adult (26-35),Cold & Windy,Office/Work,Glamorous,Budget (<₹1000),No preference,Slim Fit,Fabric suggestion
+Pastel,Petite,Female,Teen (13-17),Hot & Sunny,Date Night,Minimalist,Premium (₹5000-₹15000),Silk/Satin,Regular Fit,Layering tips
+Pastel,Pear,Non-binary,Mid Adult (36-50),Humid,Formal Event,Streetwear,Mid-range (₹1000-₹5000),Cotton,Relaxed,Layering tips
+Earthy,Petite,Male,Mid Adult (36-50),Humid,Formal Event,Classic/Preppy,Luxury (₹15000+),Synthetic/Polyester,Regular Fit,Fabric suggestion
+Bold/Bright,Petite,Male,Mid Adult (36-50),Rainy,Festival,Streetwear,Budget (<₹1000),Linen,Regular Fit,Occasion-specific look
+Dark,Rectangle,Non-binary,Adult (26-35),Mild/Pleasant,Wedding Guest,Classic/Preppy,Luxury (₹15000+),No preference,Tailored,Find color match
+Pastel,Rectangle,Non-binary,Adult (26-35),Humid,Wedding Guest,Sporty,Budget (<₹1000),No preference,Tailored,Occasion-specific look
+Neutral,Inverted Triangle,Non-binary,Teen (13-17),Humid,Beach/Vacation,Sporty,Mid-range (₹1000-₹5000),Wool/Knit,Regular Fit,Weather-appropriate outfit
+Dark,Pear,Non-binary,Adult (26-35),Snowy,Formal Event,Bohemian,Budget (<₹1000),Silk/Satin,Tailored,Get outfit recommendation
+Earthy,Apple,Non-binary,Young Adult (18-25),Hot & Sunny,Wedding Guest,Vintage,Luxury (₹15000+),Denim,Oversized,Style advice for body type
+Multicolor,Inverted Triangle,Female,Senior (51+),Humid,Wedding Guest,Streetwear,Premium (₹5000-₹15000),No preference,Tailored,Occasion-specific look
+Dark,Plus-size,Female,Teen (13-17),Mild/Pleasant,Office/Work,Streetwear,Mid-range (₹1000-₹5000),No preference,Tailored,Accessory suggestion
+Neutral,Plus-size,Female,Teen (13-17),Rainy,Festival,Bohemian,Luxury (₹15000+),Silk/Satin,Regular Fit,Layering tips
+Multicolor,Petite,Female,Teen (13-17),Snowy,Party/Night Out,Business Casual,Budget (<₹1000),Wool/Knit,Relaxed,Accessory suggestion
+Earthy,Pear,Non-binary,Teen (13-17),Snowy,Beach/Vacation,Sporty,Luxury (₹15000+),Cotton,Oversized,Get outfit recommendation
+Neutral,Apple,Female,Teen (13-17),Hot & Sunny,Party/Night Out,Streetwear,Luxury (₹15000+),Linen,Regular Fit,Layering tips
+Earthy,Petite,Non-binary,Young Adult (18-25),Mild/Pleasant,Office/Work,Business Casual,Luxury (₹15000+),Silk/Satin,Slim Fit,Accessory suggestion
+Pastel,Rectangle,Female,Young Adult (18-25),Rainy,Office/Work,Vintage,Premium (₹5000-₹15000),Cotton,Tailored,Occasion-specific look
+Pastel,Hourglass,Female,Teen (13-17),Snowy,Party/Night Out,Minimalist,Budget (<₹1000),No preference,Regular Fit,Weather-appropriate outfit
+Pastel,Plus-size,Non-binary,Young Adult (18-25),Hot & Sunny,Festival,Classic/Preppy,Mid-range (₹1000-₹5000),No preference,Oversized,Accessory suggestion
+Multicolor,Pear,Non-binary,Teen (13-17),Rainy,Formal Event,Streetwear,Premium (₹5000-₹15000),No preference,Oversized,Find color match
+Dark,Plus-size,Male,Young Adult (18-25),Hot & Sunny,Date Night,Classic/Preppy,Premium (₹5000-₹15000),Cotton,Oversized,Occasion-specific look
+Neutral,Pear,Non-binary,Mid Adult (36-50),Humid,Office/Work,Bohemian,Luxury (₹15000+),Linen,Regular Fit,Find color match
+Monochrome,Inverted Triangle,Male,Senior (51+),Hot & Sunny,Festival,Sporty,Luxury (₹15000+),Synthetic/Polyester,Slim Fit,Get outfit recommendation
+Monochrome,Plus-size,Female,Mid Adult (36-50),Snowy,Office/Work,Business Casual,Luxury (₹15000+),Cotton,Slim Fit,Accessory suggestion
+Earthy,Pear,Male,Young Adult (18-25),Rainy,Job Interview,Vintage,Luxury (₹15000+),Wool/Knit,Relaxed,Occasion-specific look
+Monochrome,Inverted Triangle,Non-binary,Mid Adult (36-50),Hot & Sunny,Office/Work,Classic/Preppy,Luxury (₹15000+),Linen,Oversized,Layering tips
+Bold/Bright,Plus-size,Female,Mid Adult (36-50),Mild/Pleasant,Office/Work,Vintage,Luxury (₹15000+),Silk/Satin,Regular Fit,Accessory suggestion
+Pastel,Petite,Female,Teen (13-17),Hot & Sunny,Office/Work,Bohemian,Luxury (₹15000+),Cotton,Regular Fit,Style advice for body type
+Earthy,Hourglass,Non-binary,Senior (51+),Humid,Date Night,Bohemian,Luxury (₹15000+),Silk/Satin,Tailored,Get outfit recommendation
+Bold/Bright,Inverted Triangle,Female,Adult (26-35),Hot & Sunny,Job Interview,Classic/Preppy,Mid-range (₹1000-₹5000),Synthetic/Polyester,Tailored,Weather-appropriate outfit
+Multicolor,Hourglass,Female,Senior (51+),Rainy,Office/Work,Sporty,Mid-range (₹1000-₹5000),No preference,Tailored,Get outfit recommendation
+Earthy,Petite,Non-binary,Adult (26-35),Hot & Sunny,Formal Event,Sporty,Premium (₹5000-₹15000),Silk/Satin,Regular Fit,Get outfit recommendation
+Pastel,Plus-size,Male,Senior (51+),Snowy,Sports/Gym,Bohemian,Mid-range (₹1000-₹5000),Synthetic/Polyester,Slim Fit,Find color match
+Dark,Inverted Triangle,Male,Mid Adult (36-50),Mild/Pleasant,Beach/Vacation,Vintage,Mid-range (₹1000-₹5000),Silk/Satin,Regular Fit,Accessory suggestion
+Multicolor,Inverted Triangle,Non-binary,Teen (13-17),Hot & Sunny,Formal Event,Streetwear,Budget (<₹1000),Synthetic/Polyester,Slim Fit,Occasion-specific look
+Monochrome,Petite,Female,Mid Adult (36-50),Humid,Beach/Vacation,Glamorous,Premium (₹5000-₹15000),Denim,Relaxed,Find color match
+Bold/Bright,Rectangle,Male,Adult (26-35),Snowy,Job Interview,Business Casual,Premium (₹5000-₹15000),Cotton,Oversized,Layering tips
+Earthy,Hourglass,Male,Young Adult (18-25),Rainy,Party/Night Out,Streetwear,Premium (₹5000-₹15000),Silk/Satin,Regular Fit,Find color match
+Neutral,Rectangle,Non-binary,Mid Adult (36-50),Cold & Windy,Formal Event,Glamorous,Mid-range (₹1000-₹5000),Wool/Knit,Relaxed,Accessory suggestion
+Neutral,Rectangle,Non-binary,Teen (13-17),Mild/Pleasant,Casual Outing,Business Casual,Budget (<₹1000),No preference,Regular Fit,Layering tips
+Earthy,Rectangle,Non-binary,Mid Adult (36-50),Rainy,Office/Work,Glamorous,Budget (<₹1000),Silk/Satin,Oversized,Fabric suggestion
+Multicolor,Petite,Female,Teen (13-17),Mild/Pleasant,Office/Work,Classic/Preppy,Luxury (₹15000+),Wool/Knit,Tailored,Find color match
+Monochrome,Plus-size,Female,Adult (26-35),Cold & Windy,Date Night,Streetwear,Budget (<₹1000),Wool/Knit,Slim Fit,Weather-appropriate outfit
+Multicolor,Apple,Female,Young Adult (18-25),Cold & Windy,Office/Work,Streetwear,Premium (₹5000-₹15000),Denim,Oversized,Style advice for body type
+Multicolor,Plus-size,Non-binary,Teen (13-17),Cold & Windy,Beach/Vacation,Business Casual,Luxury (₹15000+),Synthetic/Polyester,Relaxed,Accessory suggestion
+Multicolor,Petite,Female,Young Adult (18-25),Mild/Pleasant,Office/Work,Business Casual,Luxury (₹15000+),Synthetic/Polyester,Regular Fit,Occasion-specific look
+Earthy,Hourglass,Female,Senior (51+),Hot & Sunny,Wedding Guest,Business Casual,Luxury (₹15000+),Cotton,Slim Fit,Accessory suggestion
+Multicolor,Apple,Male,Teen (13-17),Humid,Job Interview,Glamorous,Luxury (₹15000+),Wool/Knit,Relaxed,Get outfit recommendation
+Monochrome,Plus-size,Non-binary,Young Adult (18-25),Rainy,Job Interview,Business Casual,Mid-range (₹1000-₹5000),Cotton,Tailored,Find color match
+Multicolor,Plus-size,Female,Teen (13-17),Humid,Formal Event,Minimalist,Mid-range (₹1000-₹5000),Synthetic/Polyester,Tailored,Fabric suggestion
+Earthy,Inverted Triangle,Non-binary,Young Adult (18-25),Rainy,Date Night,Sporty,Luxury (₹15000+),Linen,Regular Fit,Get outfit recommendation
+Multicolor,Petite,Non-binary,Adult (26-35),Hot & Sunny,Date Night,Bohemian,Luxury (₹15000+),Silk/Satin,Regular Fit,Style advice for body type
+Bold/Bright,Hourglass,Non-binary,Young Adult (18-25),Rainy,Wedding Guest,Glamorous,Mid-range (₹1000-₹5000),Wool/Knit,Slim Fit,Occasion-specific look
+Earthy,Rectangle,Non-binary,Adult (26-35),Cold & Windy,Festival,Bohemian,Luxury (₹15000+),Wool/Knit,Regular Fit,Get outfit recommendation
+Bold/Bright,Apple,Male,Young Adult (18-25),Rainy,Beach/Vacation,Classic/Preppy,Mid-range (₹1000-₹5000),Denim,Oversized,Find color match
+Bold/Bright,Plus-size,Male,Senior (51+),Humid,Festival,Minimalist,Premium (₹5000-₹15000),No preference,Relaxed,Style advice for body type
+Earthy,Rectangle,Male,Young Adult (18-25),Cold & Windy,Job Interview,Streetwear,Luxury (₹15000+),Cotton,Tailored,Accessory suggestion
+Dark,Petite,Male,Mid Adult (36-50),Humid,Wedding Guest,Business Casual,Mid-range (₹1000-₹5000),Wool/Knit,Oversized,Occasion-specific look
+Multicolor,Plus-size,Female,Young Adult (18-25),Rainy,Job Interview,Business Casual,Luxury (₹15000+),No preference,Regular Fit,Layering tips
+Earthy,Inverted Triangle,Female,Young Adult (18-25),Cold & Windy,Job Interview,Streetwear,Premium (₹5000-₹15000),Cotton,Tailored,Accessory suggestion
+Earthy,Hourglass,Non-binary,Senior (51+),Hot & Sunny,Wedding Guest,Bohemian,Mid-range (₹1000-₹5000),Silk/Satin,Tailored,Style advice for body type
+Multicolor,Rectangle,Male,Young Adult (18-25),Mild/Pleasant,Date Night,Minimalist,Luxury (₹15000+),Cotton,Tailored,Accessory suggestion
+Pastel,Rectangle,Male,Adult (26-35),Cold & Windy,Casual Outing,Vintage,Budget (<₹1000),No preference,Regular Fit,Style advice for body type
+Pastel,Hourglass,Female,Mid Adult (36-50),Snowy,Formal Event,Business Casual,Luxury (₹15000+),Wool/Knit,Slim Fit,Find color match
+Neutral,Apple,Male,Young Adult (18-25),Humid,Job Interview,Glamorous,Budget (<₹1000),No preference,Regular Fit,Weather-appropriate outfit
+Bold/Bright,Hourglass,Male,Young Adult (18-25),Mild/Pleasant,Job Interview,Business Casual,Budget (<₹1000),Cotton,Tailored,Get outfit recommendation
+Dark,Inverted Triangle,Non-binary,Young Adult (18-25),Snowy,Formal Event,Sporty,Luxury (₹15000+),Cotton,Relaxed,Accessory suggestion
+Pastel,Inverted Triangle,Female,Young Adult (18-25),Snowy,Office/Work,Vintage,Budget (<₹1000),Wool/Knit,Relaxed,Get outfit recommendation
+Monochrome,Plus-size,Female,Teen (13-17),Snowy,Sports/Gym,Vintage,Premium (₹5000-₹15000),Synthetic/Polyester,Slim Fit,Accessory suggestion
+Multicolor,Hourglass,Female,Young Adult (18-25),Snowy,Office/Work,Vintage,Mid-range (₹1000-₹5000),Cotton,Regular Fit,Accessory suggestion
+Multicolor,Petite,Male,Mid Adult (36-50),Snowy,Beach/Vacation,Streetwear,Mid-range (₹1000-₹5000),Cotton,Tailored,Get outfit recommendation
+Bold/Bright,Pear,Male,Young Adult (18-25),Hot & Sunny,Date Night,Sporty,Luxury (₹15000+),No preference,Relaxed,Fabric suggestion
+Bold/Bright,Hourglass,Non-binary,Young Adult (18-25),Rainy,Date Night,Minimalist,Premium (₹5000-₹15000),Silk/Satin,Slim Fit,Accessory suggestion
+Monochrome,Rectangle,Non-binary,Mid Adult (36-50),Mild/Pleasant,Date Night,Streetwear,Luxury (₹15000+),Synthetic/Polyester,Tailored,Accessory suggestion
+Multicolor,Inverted Triangle,Female,Teen (13-17),Snowy,Sports/Gym,Bohemian,Luxury (₹15000+),Wool/Knit,Oversized,Occasion-specific look
+Bold/Bright,Hourglass,Male,Adult (26-35),Snowy,Wedding Guest,Sporty,Luxury (₹15000+),Wool/Knit,Tailored,Style advice for body type
+Dark,Rectangle,Female,Mid Adult (36-50),Hot & Sunny,Date Night,Glamorous,Premium (₹5000-₹15000),Synthetic/Polyester,Slim Fit,Find color match
+Dark,Petite,Female,Adult (26-35),Humid,Formal Event,Minimalist,Mid-range (₹1000-₹5000),No preference,Relaxed,Fabric suggestion
+Neutral,Pear,Male,Young Adult (18-25),Snowy,Date Night,Vintage,Luxury (₹15000+),Wool/Knit,Slim Fit,Style advice for body type
+Dark,Rectangle,Female,Adult (26-35),Mild/Pleasant,Office/Work,Streetwear,Premium (₹5000-₹15000),Linen,Regular Fit,Occasion-specific look
+Pastel,Hourglass,Male,Young Adult (18-25),Mild/Pleasant,Festival,Glamorous,Budget (<₹1000),Silk/Satin,Regular Fit,Fabric suggestion
+Pastel,Inverted Triangle,Female,Mid Adult (36-50),Cold & Windy,Office/Work,Streetwear,Budget (<₹1000),Linen,Oversized,Fabric suggestion
+Neutral,Plus-size,Non-binary,Adult (26-35),Snowy,Date Night,Bohemian,Premium (₹5000-₹15000),Silk/Satin,Oversized,Style advice for body type
+Multicolor,Apple,Non-binary,Young Adult (18-25),Hot & Sunny,Party/Night Out,Streetwear,Mid-range (₹1000-₹5000),No preference,Tailored,Get outfit recommendation
+Bold/Bright,Inverted Triangle,Non-binary,Adult (26-35),Mild/Pleasant,Festival,Streetwear,Budget (<₹1000),Cotton,Regular Fit,Layering tips
+Dark,Petite,Female,Senior (51+),Mild/Pleasant,Sports/Gym,Bohemian,Mid-range (₹1000-₹5000),Silk/Satin,Slim Fit,Fabric suggestion
+Monochrome,Petite,Non-binary,Adult (26-35),Cold & Windy,Festival,Streetwear,Mid-range (₹1000-₹5000),Linen,Relaxed,Get outfit recommendation
+Multicolor,Hourglass,Non-binary,Young Adult (18-25),Rainy,Formal Event,Streetwear,Premium (₹5000-₹15000),Synthetic/Polyester,Oversized,Accessory suggestion
+Earthy,Apple,Male,Adult (26-35),Cold & Windy,Festival,Sporty,Mid-range (₹1000-₹5000),Synthetic/Polyester,Regular Fit,Find color match
+Earthy,Petite,Male,Senior (51+),Humid,Formal Event,Streetwear,Premium (₹5000-₹15000),No preference,Relaxed,Get outfit recommendation
+Multicolor,Plus-size,Male,Teen (13-17),Hot & Sunny,Job Interview,Sporty,Mid-range (₹1000-₹5000),No preference,Relaxed,Layering tips
+Earthy,Petite,Male,Mid Adult (36-50),Snowy,Festival,Sporty,Premium (₹5000-₹15000),Linen,Oversized,Layering tips
+Bold/Bright,Rectangle,Male,Teen (13-17),Cold & Windy,Beach/Vacation,Glamorous,Luxury (₹15000+),Linen,Oversized,Accessory suggestion
+Earthy,Pear,Female,Adult (26-35),Snowy,Date Night,Glamorous,Mid-range (₹1000-₹5000),No preference,Regular Fit,Find color match
+Bold/Bright,Pear,Female,Teen (13-17),Rainy,Beach/Vacation,Classic/Preppy,Mid-range (₹1000-₹5000),Cotton,Slim Fit,Occasion-specific look
+Monochrome,Plus-size,Non-binary,Mid Adult (36-50),Cold & Windy,Formal Event,Vintage,Premium (₹5000-₹15000),Denim,Oversized,Fabric suggestion
+Earthy,Rectangle,Female,Adult (26-35),Mild/Pleasant,Casual Outing,Bohemian,Luxury (₹15000+),Wool/Knit,Tailored,Weather-appropriate outfit
+Pastel,Inverted Triangle,Female,Teen (13-17),Hot & Sunny,Wedding Guest,Business Casual,Luxury (₹15000+),Silk/Satin,Relaxed,Get outfit recommendation
+Multicolor,Hourglass,Female,Young Adult (18-25),Rainy,Date Night,Glamorous,Premium (₹5000-₹15000),Cotton,Tailored,Get outfit recommendation
+Earthy,Inverted Triangle,Male,Adult (26-35),Humid,Wedding Guest,Bohemian,Luxury (₹15000+),Wool/Knit,Tailored,Occasion-specific look
+Multicolor,Inverted Triangle,Non-binary,Senior (51+),Hot & Sunny,Formal Event,Bohemian,Luxury (₹15000+),Silk/Satin,Regular Fit,Accessory suggestion
+Multicolor,Pear,Male,Senior (51+),Humid,Sports/Gym,Minimalist,Budget (<₹1000),Cotton,Oversized,Accessory suggestion
+Multicolor,Rectangle,Non-binary,Mid Adult (36-50),Cold & Windy,Job Interview,Streetwear,Premium (₹5000-₹15000),Wool/Knit,Regular Fit,Style advice for body type
+Monochrome,Inverted Triangle,Non-binary,Adult (26-35),Humid,Date Night,Business Casual,Premium (₹5000-₹15000),Linen,Slim Fit,Accessory suggestion
+Bold/Bright,Petite,Male,Mid Adult (36-50),Humid,Wedding Guest,Minimalist,Luxury (₹15000+),Silk/Satin,Relaxed,Weather-appropriate outfit
+Dark,Hourglass,Non-binary,Mid Adult (36-50),Cold & Windy,Festival,Glamorous,Mid-range (₹1000-₹5000),No preference,Oversized,Get outfit recommendation
+Earthy,Petite,Male,Young Adult (18-25),Hot & Sunny,Beach/Vacation,Vintage,Luxury (₹15000+),Denim,Tailored,Weather-appropriate outfit
+Monochrome,Inverted Triangle,Non-binary,Mid Adult (36-50),Snowy,Casual Outing,Streetwear,Mid-range (₹1000-₹5000),Wool/Knit,Regular Fit,Fabric suggestion
+Earthy,Rectangle,Female,Young Adult (18-25),Mild/Pleasant,Festival,Vintage,Premium (₹5000-₹15000),Synthetic/Polyester,Regular Fit,Fabric suggestion
+Pastel,Pear,Female,Senior (51+),Rainy,Party/Night Out,Sporty,Premium (₹5000-₹15000),Synthetic/Polyester,Oversized,Fabric suggestion
+Bold/Bright,Rectangle,Female,Senior (51+),Snowy,Wedding Guest,Sporty,Budget (<₹1000),Wool/Knit,Relaxed,Layering tips
+Monochrome,Plus-size,Female,Young Adult (18-25),Rainy,Casual Outing,Sporty,Budget (<₹1000),Silk/Satin,Tailored,Occasion-specific look
+Dark,Rectangle,Male,Young Adult (18-25),Humid,Wedding Guest,Sporty,Mid-range (₹1000-₹5000),Cotton,Relaxed,Weather-appropriate outfit
+Pastel,Hourglass,Non-binary,Senior (51+),Cold & Windy,Party/Night Out,Minimalist,Budget (<₹1000),Linen,Regular Fit,Fabric suggestion
+Neutral,Petite,Male,Teen (13-17),Humid,Formal Event,Glamorous,Luxury (₹15000+),Linen,Oversized,Occasion-specific look
+Bold/Bright,Apple,Non-binary,Teen (13-17),Hot & Sunny,Job Interview,Classic/Preppy,Budget (<₹1000),Denim,Tailored,Style advice for body type
+Neutral,Plus-size,Female,Mid Adult (36-50),Cold & Windy,Wedding Guest,Minimalist,Budget (<₹1000),Silk/Satin,Relaxed,Find color match
+Bold/Bright,Apple,Female,Senior (51+),Humid,Beach/Vacation,Streetwear,Luxury (₹15000+),Silk/Satin,Oversized,Find color match
+Bold/Bright,Pear,Non-binary,Mid Adult (36-50),Snowy,Wedding Guest,Streetwear,Budget (<₹1000),Synthetic/Polyester,Regular Fit,Occasion-specific look
+Earthy,Petite,Male,Young Adult (18-25),Humid,Sports/Gym,Glamorous,Premium (₹5000-₹15000),Cotton,Tailored,Find color match
+Pastel,Pear,Female,Adult (26-35),Cold & Windy,Casual Outing,Sporty,Luxury (₹15000+),Denim,Tailored,Occasion-specific look
+Bold/Bright,Apple,Non-binary,Senior (51+),Hot & Sunny,Wedding Guest,Vintage,Mid-range (₹1000-₹5000),Cotton,Slim Fit,Fabric suggestion
+Bold/Bright,Pear,Female,Senior (51+),Snowy,Wedding Guest,Bohemian,Premium (₹5000-₹15000),Silk/Satin,Relaxed,Weather-appropriate outfit
+Pastel,Pear,Female,Young Adult (18-25),Mild/Pleasant,Job Interview,Vintage,Luxury (₹15000+),Synthetic/Polyester,Relaxed,Fabric suggestion
+Multicolor,Inverted Triangle,Non-binary,Young Adult (18-25),Cold & Windy,Job Interview,Bohemian,Luxury (₹15000+),Wool/Knit,Regular Fit,Find color match
+Earthy,Hourglass,Male,Senior (51+),Humid,Party/Night Out,Streetwear,Mid-range (₹1000-₹5000),Silk/Satin,Relaxed,Fabric suggestion
+Neutral,Petite,Male,Senior (51+),Mild/Pleasant,Office/Work,Business Casual,Budget (<₹1000),Linen,Oversized,Layering tips
+Monochrome,Inverted Triangle,Male,Senior (51+),Mild/Pleasant,Wedding Guest,Minimalist,Luxury (₹15000+),Silk/Satin,Slim Fit,Weather-appropriate outfit
+Earthy,Hourglass,Male,Mid Adult (36-50),Rainy,Office/Work,Minimalist,Budget (<₹1000),Linen,Slim Fit,Occasion-specific look
+Monochrome,Pear,Male,Mid Adult (36-50),Rainy,Sports/Gym,Business Casual,Luxury (₹15000+),Linen,Slim Fit,Style advice for body type
+Dark,Plus-size,Female,Teen (13-17),Cold & Windy,Festival,Glamorous,Mid-range (₹1000-₹5000),Synthetic/Polyester,Oversized,Get outfit recommendation
+Multicolor,Hourglass,Female,Mid Adult (36-50),Snowy,Festival,Glamorous,Luxury (₹15000+),No preference,Oversized,Weather-appropriate outfit
+Monochrome,Apple,Male,Adult (26-35),Cold & Windy,Office/Work,Minimalist,Luxury (₹15000+),Wool/Knit,Slim Fit,Weather-appropriate outfit
+Pastel,Hourglass,Male,Senior (51+),Hot & Sunny,Beach/Vacation,Minimalist,Mid-range (₹1000-₹5000),Synthetic/Polyester,Slim Fit,Layering tips
+Monochrome,Pear,Non-binary,Young Adult (18-25),Hot & Sunny,Formal Event,Sporty,Mid-range (₹1000-₹5000),No preference,Relaxed,Accessory suggestion
+Earthy,Inverted Triangle,Non-binary,Adult (26-35),Cold & Windy,Wedding Guest,Streetwear,Mid-range (₹1000-₹5000),Linen,Regular Fit,Occasion-specific look
+Neutral,Inverted Triangle,Non-binary,Young Adult (18-25),Snowy,Sports/Gym,Business Casual,Budget (<₹1000),Silk/Satin,Tailored,Accessory suggestion
+Dark,Rectangle,Female,Young Adult (18-25),Rainy,Sports/Gym,Streetwear,Luxury (₹15000+),Denim,Oversized,Occasion-specific look
+Multicolor,Petite,Male,Mid Adult (36-50),Hot & Sunny,Festival,Glamorous,Luxury (₹15000+),Wool/Knit,Relaxed,Style advice for body type
+Monochrome,Pear,Female,Young Adult (18-25),Rainy,Office/Work,Business Casual,Premium (₹5000-₹15000),Cotton,Relaxed,Weather-appropriate outfit
+Neutral,Apple,Female,Senior (51+),Humid,Casual Outing,Bohemian,Mid-range (₹1000-₹5000),No preference,Relaxed,Weather-appropriate outfit
+Monochrome,Pear,Female,Adult (26-35),Hot & Sunny,Party/Night Out,Classic/Preppy,Budget (<₹1000),Synthetic/Polyester,Tailored,Weather-appropriate outfit
+Dark,Inverted Triangle,Non-binary,Young Adult (18-25),Mild/Pleasant,Party/Night Out,Vintage,Premium (₹5000-₹15000),Linen,Tailored,Accessory suggestion
+Bold/Bright,Apple,Female,Senior (51+),Mild/Pleasant,Beach/Vacation,Bohemian,Luxury (₹15000+),No preference,Regular Fit,Weather-appropriate outfit
+Bold/Bright,Apple,Female,Teen (13-17),Humid,Party/Night Out,Streetwear,Budget (<₹1000),Silk/Satin,Relaxed,Layering tips
+Bold/Bright,Pear,Male,Adult (26-35),Cold & Windy,Sports/Gym,Classic/Preppy,Luxury (₹15000+),Wool/Knit,Regular Fit,Occasion-specific look
+Multicolor,Plus-size,Female,Mid Adult (36-50),Mild/Pleasant,Formal Event,Vintage,Mid-range (₹1000-₹5000),Denim,Relaxed,Fabric suggestion
+Pastel,Inverted Triangle,Non-binary,Teen (13-17),Humid,Casual Outing,Bohemian,Budget (<₹1000),No preference,Slim Fit,Layering tips
+Pastel,Plus-size,Non-binary,Young Adult (18-25),Hot & Sunny,Formal Event,Minimalist,Mid-range (₹1000-₹5000),Wool/Knit,Tailored,Accessory suggestion
+Neutral,Inverted Triangle,Non-binary,Senior (51+),Mild/Pleasant,Beach/Vacation,Minimalist,Budget (<₹1000),Wool/Knit,Relaxed,Layering tips
+Neutral,Hourglass,Non-binary,Adult (26-35),Humid,Wedding Guest,Minimalist,Luxury (₹15000+),No preference,Oversized,Find color match
+Neutral,Inverted Triangle,Male,Young Adult (18-25),Cold & Windy,Job Interview,Sporty,Premium (₹5000-₹15000),Silk/Satin,Tailored,Find color match
+Bold/Bright,Rectangle,Female,Senior (51+),Cold & Windy,Party/Night Out,Sporty,Budget (<₹1000),Synthetic/Polyester,Slim Fit,Find color match
+Monochrome,Rectangle,Female,Senior (51+),Mild/Pleasant,Casual Outing,Minimalist,Mid-range (₹1000-₹5000),Cotton,Tailored,Layering tips
+Dark,Plus-size,Female,Senior (51+),Hot & Sunny,Festival,Minimalist,Mid-range (₹1000-₹5000),Denim,Relaxed,Fabric suggestion
+Bold/Bright,Hourglass,Male,Adult (26-35),Humid,Job Interview,Minimalist,Mid-range (₹1000-₹5000),No preference,Regular Fit,Get outfit recommendation
+Pastel,Inverted Triangle,Male,Mid Adult (36-50),Hot & Sunny,Wedding Guest,Streetwear,Mid-range (₹1000-₹5000),Wool/Knit,Tailored,Accessory suggestion
+Monochrome,Plus-size,Non-binary,Young Adult (18-25),Snowy,Office/Work,Vintage,Budget (<₹1000),Cotton,Tailored,Weather-appropriate outfit
+Multicolor,Hourglass,Female,Senior (51+),Humid,Job Interview,Glamorous,Premium (₹5000-₹15000),Cotton,Regular Fit,Fabric suggestion
+Monochrome,Pear,Female,Senior (51+),Mild/Pleasant,Sports/Gym,Streetwear,Luxury (₹15000+),Cotton,Relaxed,Occasion-specific look
+Multicolor,Pear,Non-binary,Teen (13-17),Hot & Sunny,Wedding Guest,Streetwear,Luxury (₹15000+),Synthetic/Polyester,Oversized,Layering tips
+Bold/Bright,Apple,Male,Teen (13-17),Hot & Sunny,Wedding Guest,Business Casual,Premium (₹5000-₹15000),No preference,Regular Fit,Find color match
+Pastel,Hourglass,Male,Mid Adult (36-50),Mild/Pleasant,Festival,Glamorous,Budget (<₹1000),Cotton,Slim Fit,Accessory suggestion
+Earthy,Hourglass,Non-binary,Senior (51+),Rainy,Sports/Gym,Minimalist,Premium (₹5000-₹15000),Linen,Tailored,Find color match
+Dark,Inverted Triangle,Male,Senior (51+),Humid,Formal Event,Glamorous,Mid-range (₹1000-₹5000),Denim,Regular Fit,Occasion-specific look
+Bold/Bright,Rectangle,Male,Teen (13-17),Cold & Windy,Sports/Gym,Sporty,Luxury (₹15000+),Silk/Satin,Tailored,Find color match
+Bold/Bright,Apple,Male,Mid Adult (36-50),Humid,Job Interview,Classic/Preppy,Luxury (₹15000+),Cotton,Oversized,Occasion-specific look
+Neutral,Rectangle,Female,Senior (51+),Mild/Pleasant,Date Night,Business Casual,Premium (₹5000-₹15000),Linen,Relaxed,Style advice for body type
+Bold/Bright,Apple,Non-binary,Young Adult (18-25),Mild/Pleasant,Date Night,Streetwear,Luxury (₹15000+),Silk/Satin,Regular Fit,Fabric suggestion
+Earthy,Plus-size,Male,Adult (26-35),Mild/Pleasant,Wedding Guest,Glamorous,Premium (₹5000-₹15000),Cotton,Relaxed,Weather-appropriate outfit
+Earthy,Inverted Triangle,Male,Senior (51+),Hot & Sunny,Beach/Vacation,Classic/Preppy,Luxury (₹15000+),No preference,Regular Fit,Find color match
+Multicolor,Plus-size,Female,Mid Adult (36-50),Cold & Windy,Wedding Guest,Classic/Preppy,Premium (₹5000-₹15000),Synthetic/Polyester,Oversized,Layering tips
+Multicolor,Rectangle,Male,Mid Adult (36-50),Humid,Beach/Vacation,Glamorous,Luxury (₹15000+),Wool/Knit,Slim Fit,Accessory suggestion
+Dark,Plus-size,Non-binary,Senior (51+),Snowy,Office/Work,Bohemian,Mid-range (₹1000-₹5000),Synthetic/Polyester,Regular Fit,Style advice for body type
+Dark,Inverted Triangle,Male,Senior (51+),Snowy,Sports/Gym,Vintage,Luxury (₹15000+),Cotton,Slim Fit,Find color match
+Bold/Bright,Pear,Non-binary,Senior (51+),Humid,Job Interview,Classic/Preppy,Luxury (₹15000+),Silk/Satin,Tailored,Fabric suggestion
+Multicolor,Petite,Non-binary,Senior (51+),Cold & Windy,Date Night,Minimalist,Luxury (₹15000+),Cotton,Regular Fit,Layering tips
+Neutral,Hourglass,Non-binary,Young Adult (18-25),Rainy,Wedding Guest,Vintage,Luxury (₹15000+),No preference,Oversized,Fabric suggestion
+Bold/Bright,Rectangle,Male,Mid Adult (36-50),Snowy,Beach/Vacation,Vintage,Budget (<₹1000),Silk/Satin,Slim Fit,Find color match
+Neutral,Plus-size,Female,Teen (13-17),Snowy,Formal Event,Classic/Preppy,Mid-range (₹1000-₹5000),Wool/Knit,Oversized,Accessory suggestion
+Earthy,Rectangle,Female,Young Adult (18-25),Mild/Pleasant,Formal Event,Streetwear,Luxury (₹15000+),Linen,Slim Fit,Weather-appropriate outfit
+Monochrome,Inverted Triangle,Female,Mid Adult (36-50),Hot & Sunny,Party/Night Out,Classic/Preppy,Premium (₹5000-₹15000),No preference,Slim Fit,Find color match
+Multicolor,Plus-size,Non-binary,Young Adult (18-25),Rainy,Date Night,Classic/Preppy,Luxury (₹15000+),Cotton,Regular Fit,Fabric suggestion
+Earthy,Petite,Female,Senior (51+),Mild/Pleasant,Job Interview,Glamorous,Budget (<₹1000),Silk/Satin,Regular Fit,Fabric suggestion
+Earthy,Pear,Non-binary,Adult (26-35),Humid,Job Interview,Bohemian,Mid-range (₹1000-₹5000),Silk/Satin,Slim Fit,Weather-appropriate outfit
+Bold/Bright,Hourglass,Male,Adult (26-35),Snowy,Formal Event,Glamorous,Luxury (₹15000+),Wool/Knit,Oversized,Layering tips
+Monochrome,Pear,Female,Senior (51+),Snowy,Formal Event,Streetwear,Luxury (₹15000+),Silk/Satin,Oversized,Style advice for body type
+Bold/Bright,Plus-size,Female,Senior (51+),Hot & Sunny,Date Night,Minimalist,Luxury (₹15000+),Denim,Oversized,Layering tips
+Earthy,Inverted Triangle,Non-binary,Mid Adult (36-50),Mild/Pleasant,Beach/Vacation,Glamorous,Luxury (₹15000+),Linen,Oversized,Find color match
+Earthy,Hourglass,Male,Adult (26-35),Hot & Sunny,Wedding Guest,Classic/Preppy,Premium (₹5000-₹15000),Denim,Tailored,Fabric suggestion
+Earthy,Inverted Triangle,Male,Senior (51+),Hot & Sunny,Wedding Guest,Vintage,Budget (<₹1000),No preference,Tailored,Weather-appropriate outfit
+Monochrome,Hourglass,Non-binary,Young Adult (18-25),Rainy,Casual Outing,Business Casual,Premium (₹5000-₹15000),Silk/Satin,Slim Fit,Fabric suggestion
+Multicolor,Hourglass,Male,Young Adult (18-25),Snowy,Job Interview,Vintage,Luxury (₹15000+),Denim,Relaxed,Style advice for body type
+Multicolor,Pear,Male,Teen (13-17),Humid,Date Night,Sporty,Mid-range (₹1000-₹5000),Silk/Satin,Regular Fit,Occasion-specific look
+Earthy,Apple,Non-binary,Teen (13-17),Cold & Windy,Sports/Gym,Minimalist,Premium (₹5000-₹15000),No preference,Oversized,Style advice for body type
+Pastel,Pear,Non-binary,Adult (26-35),Cold & Windy,Sports/Gym,Business Casual,Mid-range (₹1000-₹5000),Wool/Knit,Regular Fit,Layering tips
+Monochrome,Rectangle,Male,Teen (13-17),Mild/Pleasant,Festival,Sporty,Premium (₹5000-₹15000),Linen,Tailored,Accessory suggestion
+Earthy,Hourglass,Non-binary,Teen (13-17),Snowy,Beach/Vacation,Vintage,Budget (<₹1000),No preference,Relaxed,Layering tips
+Pastel,Rectangle,Male,Mid Adult (36-50),Rainy,Date Night,Sporty,Premium (₹5000-₹15000),Wool/Knit,Relaxed,Style advice for body type
+Earthy,Plus-size,Female,Adult (26-35),Snowy,Casual Outing,Minimalist,Budget (<₹1000),Synthetic/Polyester,Tailored,Get outfit recommendation
+Neutral,Plus-size,Male,Mid Adult (36-50),Mild/Pleasant,Casual Outing,Glamorous,Mid-range (₹1000-₹5000),Synthetic/Polyester,Oversized,Occasion-specific look
+Pastel,Plus-size,Female,Teen (13-17),Snowy,Date Night,Sporty,Budget (<₹1000),Silk/Satin,Oversized,Get outfit recommendation
+Monochrome,Petite,Female,Young Adult (18-25),Mild/Pleasant,Office/Work,Bohemian,Budget (<₹1000),Denim,Tailored,Find color match
+Pastel,Inverted Triangle,Male,Senior (51+),Snowy,Beach/Vacation,Minimalist,Budget (<₹1000),Synthetic/Polyester,Regular Fit,Find color match
+Multicolor,Rectangle,Non-binary,Young Adult (18-25),Mild/Pleasant,Office/Work,Classic/Preppy,Luxury (₹15000+),Cotton,Slim Fit,Find color match
+Bold/Bright,Apple,Female,Young Adult (18-25),Mild/Pleasant,Formal Event,Streetwear,Budget (<₹1000),Wool/Knit,Relaxed,Get outfit recommendation
+Earthy,Petite,Male,Mid Adult (36-50),Rainy,Party/Night Out,Streetwear,Luxury (₹15000+),Wool/Knit,Tailored,Weather-appropriate outfit
+Neutral,Hourglass,Male,Teen (13-17),Humid,Sports/Gym,Vintage,Luxury (₹15000+),Silk/Satin,Oversized,Weather-appropriate outfit
+Bold/Bright,Petite,Male,Young Adult (18-25),Humid,Job Interview,Sporty,Budget (<₹1000),No preference,Regular Fit,Weather-appropriate outfit
+Earthy,Inverted Triangle,Non-binary,Young Adult (18-25),Snowy,Sports/Gym,Sporty,Budget (<₹1000),No preference,Oversized,Fabric suggestion
+Monochrome,Hourglass,Male,Mid Adult (36-50),Snowy,Job Interview,Bohemian,Budget (<₹1000),Silk/Satin,Regular Fit,Style advice for body type
+Monochrome,Plus-size,Non-binary,Mid Adult (36-50),Rainy,Festival,Streetwear,Luxury (₹15000+),No preference,Slim Fit,Get outfit recommendation
+Earthy,Hourglass,Male,Adult (26-35),Cold & Windy,Casual Outing,Minimalist,Luxury (₹15000+),Wool/Knit,Regular Fit,Layering tips
+Monochrome,Petite,Female,Teen (13-17),Snowy,Festival,Streetwear,Premium (₹5000-₹15000),Cotton,Regular Fit,Find color match
+Earthy,Pear,Male,Senior (51+),Rainy,Sports/Gym,Bohemian,Premium (₹5000-₹15000),Synthetic/Polyester,Tailored,Weather-appropriate outfit
+Neutral,Pear,Male,Mid Adult (36-50),Hot & Sunny,Beach/Vacation,Minimalist,Premium (₹5000-₹15000),Synthetic/Polyester,Oversized,Find color match
+Neutral,Petite,Male,Teen (13-17),Cold & Windy,Beach/Vacation,Vintage,Premium (₹5000-₹15000),Denim,Regular Fit,Style advice for body type
+Dark,Plus-size,Female,Teen (13-17),Hot & Sunny,Date Night,Glamorous,Premium (₹5000-₹15000),Wool/Knit,Slim Fit,Occasion-specific look
+Dark,Inverted Triangle,Non-binary,Teen (13-17),Mild/Pleasant,Beach/Vacation,Vintage,Budget (<₹1000),Linen,Relaxed,Style advice for body type
+Bold/Bright,Pear,Female,Teen (13-17),Humid,Office/Work,Classic/Preppy,Budget (<₹1000),Cotton,Slim Fit,Weather-appropriate outfit
+Neutral,Rectangle,Female,Mid Adult (36-50),Cold & Windy,Formal Event,Minimalist,Luxury (₹15000+),Denim,Regular Fit,Weather-appropriate outfit
+Monochrome,Petite,Female,Adult (26-35),Hot & Sunny,Job Interview,Vintage,Budget (<₹1000),Wool/Knit,Slim Fit,Style advice for body type
+Pastel,Plus-size,Non-binary,Teen (13-17),Mild/Pleasant,Office/Work,Business Casual,Premium (₹5000-₹15000),No preference,Regular Fit,Accessory suggestion
+Neutral,Inverted Triangle,Female,Teen (13-17),Rainy,Party/Night Out,Sporty,Premium (₹5000-₹15000),Synthetic/Polyester,Relaxed,Weather-appropriate outfit
+Monochrome,Apple,Non-binary,Mid Adult (36-50),Cold & Windy,Festival,Classic/Preppy,Mid-range (₹1000-₹5000),Cotton,Tailored,Get outfit recommendation
+Pastel,Inverted Triangle,Female,Teen (13-17),Rainy,Casual Outing,Glamorous,Premium (₹5000-₹15000),Cotton,Oversized,Weather-appropriate outfit
+Monochrome,Rectangle,Male,Young Adult (18-25),Snowy,Wedding Guest,Bohemian,Budget (<₹1000),Denim,Relaxed,Layering tips
+Dark,Apple,Female,Teen (13-17),Humid,Office/Work,Streetwear,Luxury (₹15000+),Cotton,Relaxed,Get outfit recommendation
+Monochrome,Petite,Male,Young Adult (18-25),Rainy,Wedding Guest,Vintage,Luxury (₹15000+),Synthetic/Polyester,Regular Fit,Accessory suggestion
+Monochrome,Apple,Male,Teen (13-17),Cold & Windy,Formal Event,Bohemian,Mid-range (₹1000-₹5000),Cotton,Oversized,Fabric suggestion
+Monochrome,Apple,Female,Teen (13-17),Humid,Date Night,Classic/Preppy,Luxury (₹15000+),Silk/Satin,Tailored,Occasion-specific look
+Multicolor,Hourglass,Male,Young Adult (18-25),Snowy,Wedding Guest,Minimalist,Mid-range (₹1000-₹5000),No preference,Regular Fit,Style advice for body type
+Neutral,Petite,Male,Adult (26-35),Mild/Pleasant,Festival,Minimalist,Premium (₹5000-₹15000),Silk/Satin,Oversized,Get outfit recommendation
+Monochrome,Plus-size,Female,Senior (51+),Snowy,Festival,Classic/Preppy,Budget (<₹1000),Linen,Slim Fit,Style advice for body type
+Neutral,Hourglass,Male,Young Adult (18-25),Cold & Windy,Party/Night Out,Glamorous,Premium (₹5000-₹15000),Synthetic/Polyester,Slim Fit,Occasion-specific look
+Multicolor,Hourglass,Male,Teen (13-17),Cold & Windy,Beach/Vacation,Streetwear,Budget (<₹1000),No preference,Regular Fit,Find color match
+Neutral,Rectangle,Male,Young Adult (18-25),Humid,Sports/Gym,Glamorous,Luxury (₹15000+),Cotton,Tailored,Layering tips
+Pastel,Apple,Male,Young Adult (18-25),Rainy,Wedding Guest,Business Casual,Mid-range (₹1000-₹5000),Cotton,Relaxed,Weather-appropriate outfit
+Dark,Apple,Female,Mid Adult (36-50),Humid,Beach/Vacation,Minimalist,Budget (<₹1000),Silk/Satin,Tailored,Style advice for body type
+Monochrome,Pear,Non-binary,Senior (51+),Cold & Windy,Festival,Minimalist,Luxury (₹15000+),No preference,Regular Fit,Fabric suggestion
+Earthy,Plus-size,Female,Adult (26-35),Humid,Festival,Vintage,Luxury (₹15000+),Silk/Satin,Oversized,Get outfit recommendation
+Bold/Bright,Inverted Triangle,Male,Teen (13-17),Rainy,Casual Outing,Business Casual,Premium (₹5000-₹15000),No preference,Relaxed,Weather-appropriate outfit
+Pastel,Hourglass,Male,Young Adult (18-25),Rainy,Festival,Minimalist,Mid-range (₹1000-₹5000),Wool/Knit,Tailored,Accessory suggestion
+Multicolor,Plus-size,Male,Young Adult (18-25),Cold & Windy,Job Interview,Vintage,Premium (₹5000-₹15000),Wool/Knit,Slim Fit,Accessory suggestion
+Earthy,Inverted Triangle,Male,Senior (51+),Cold & Windy,Beach/Vacation,Sporty,Mid-range (₹1000-₹5000),Linen,Slim Fit,Find color match
+Neutral,Pear,Non-binary,Young Adult (18-25),Hot & Sunny,Festival,Business Casual,Budget (<₹1000),Silk/Satin,Relaxed,Weather-appropriate outfit
+Multicolor,Pear,Female,Young Adult (18-25),Rainy,Casual Outing,Minimalist,Mid-range (₹1000-₹5000),Wool/Knit,Oversized,Find color match
+Multicolor,Inverted Triangle,Female,Teen (13-17),Rainy,Sports/Gym,Bohemian,Premium (₹5000-₹15000),Silk/Satin,Regular Fit,Style advice for body type
+Pastel,Petite,Female,Mid Adult (36-50),Snowy,Date Night,Streetwear,Premium (₹5000-₹15000),Denim,Relaxed,Style advice for body type
+Monochrome,Apple,Non-binary,Adult (26-35),Cold & Windy,Formal Event,Minimalist,Luxury (₹15000+),No preference,Relaxed,Get outfit recommendation
+Pastel,Inverted Triangle,Female,Senior (51+),Cold & Windy,Job Interview,Bohemian,Luxury (₹15000+),Denim,Regular Fit,Find color match
+Pastel,Apple,Female,Young Adult (18-25),Snowy,Office/Work,Vintage,Luxury (₹15000+),Cotton,Regular Fit,Weather-appropriate outfit
+Pastel,Petite,Male,Adult (26-35),Rainy,Office/Work,Minimalist,Budget (<₹1000),Linen,Tailored,Layering tips
+Pastel,Rectangle,Female,Mid Adult (36-50),Rainy,Festival,Glamorous,Budget (<₹1000),No preference,Tailored,Weather-appropriate outfit
+Pastel,Rectangle,Male,Teen (13-17),Rainy,Casual Outing,Vintage,Premium (₹5000-₹15000),Cotton,Slim Fit,Accessory suggestion
+Pastel,Rectangle,Male,Teen (13-17),Humid,Office/Work,Vintage,Luxury (₹15000+),Synthetic/Polyester,Slim Fit,Layering tips
+Dark,Pear,Non-binary,Mid Adult (36-50),Cold & Windy,Casual Outing,Bohemian,Premium (₹5000-₹15000),Denim,Oversized,Layering tips
+Dark,Inverted Triangle,Non-binary,Senior (51+),Rainy,Wedding Guest,Sporty,Mid-range (₹1000-₹5000),Cotton,Slim Fit,Layering tips
+Earthy,Inverted Triangle,Female,Young Adult (18-25),Hot & Sunny,Date Night,Minimalist,Luxury (₹15000+),Cotton,Regular Fit,Fabric suggestion
+Pastel,Hourglass,Male,Young Adult (18-25),Cold & Windy,Wedding Guest,Bohemian,Luxury (₹15000+),No preference,Slim Fit,Occasion-specific look
+Multicolor,Rectangle,Female,Mid Adult (36-50),Snowy,Wedding Guest,Bohemian,Luxury (₹15000+),Denim,Regular Fit,Layering tips
+Bold/Bright,Pear,Female,Teen (13-17),Rainy,Beach/Vacation,Business Casual,Premium (₹5000-₹15000),Denim,Regular Fit,Get outfit recommendation
+Pastel,Plus-size,Non-binary,Teen (13-17),Hot & Sunny,Date Night,Glamorous,Mid-range (₹1000-₹5000),Wool/Knit,Slim Fit,Layering tips
+Multicolor,Inverted Triangle,Female,Senior (51+),Snowy,Beach/Vacation,Classic/Preppy,Luxury (₹15000+),Silk/Satin,Slim Fit,Layering tips
+Multicolor,Petite,Male,Senior (51+),Humid,Festival,Streetwear,Budget (<₹1000),No preference,Tailored,Style advice for body type
+Pastel,Pear,Male,Young Adult (18-25),Hot & Sunny,Sports/Gym,Bohemian,Luxury (₹15000+),Denim,Oversized,Occasion-specific look
+Bold/Bright,Petite,Male,Teen (13-17),Mild/Pleasant,Festival,Glamorous,Premium (₹5000-₹15000),No preference,Regular Fit,Fabric suggestion
+Multicolor,Hourglass,Non-binary,Senior (51+),Humid,Festival,Glamorous,Budget (<₹1000),Linen,Oversized,Style advice for body type
+Earthy,Inverted Triangle,Non-binary,Teen (13-17),Hot & Sunny,Job Interview,Bohemian,Premium (₹5000-₹15000),No preference,Relaxed,Accessory suggestion
+Monochrome,Apple,Female,Mid Adult (36-50),Humid,Job Interview,Business Casual,Budget (<₹1000),Denim,Regular Fit,Layering tips
+Pastel,Inverted Triangle,Non-binary,Mid Adult (36-50),Hot & Sunny,Sports/Gym,Vintage,Mid-range (₹1000-₹5000),Cotton,Tailored,Occasion-specific look
+Bold/Bright,Hourglass,Female,Adult (26-35),Rainy,Wedding Guest,Business Casual,Budget (<₹1000),No preference,Oversized,Style advice for body type
+Bold/Bright,Petite,Female,Adult (26-35),Rainy,Sports/Gym,Bohemian,Mid-range (₹1000-₹5000),Linen,Oversized,Layering tips
+Dark,Rectangle,Non-binary,Adult (26-35),Hot & Sunny,Festival,Streetwear,Budget (<₹1000),Silk/Satin,Relaxed,Layering tips
+Pastel,Plus-size,Non-binary,Senior (51+),Hot & Sunny,Formal Event,Classic/Preppy,Mid-range (₹1000-₹5000),No preference,Slim Fit,Weather-appropriate outfit
+Neutral,Rectangle,Male,Adult (26-35),Snowy,Party/Night Out,Sporty,Premium (₹5000-₹15000),No preference,Tailored,Layering tips
+Dark,Hourglass,Non-binary,Teen (13-17),Cold & Windy,Date Night,Business Casual,Luxury (₹15000+),Denim,Tailored,Accessory suggestion
+Bold/Bright,Pear,Female,Teen (13-17),Rainy,Casual Outing,Glamorous,Budget (<₹1000),Denim,Relaxed,Weather-appropriate outfit
+Multicolor,Pear,Non-binary,Young Adult (18-25),Snowy,Party/Night Out,Sporty,Luxury (₹15000+),Wool/Knit,Slim Fit,Get outfit recommendation
+Monochrome,Pear,Non-binary,Young Adult (18-25),Humid,Casual Outing,Classic/Preppy,Premium (₹5000-₹15000),Wool/Knit,Regular Fit,Occasion-specific look
+Monochrome,Rectangle,Female,Mid Adult (36-50),Rainy,Party/Night Out,Business Casual,Premium (₹5000-₹15000),Synthetic/Polyester,Relaxed,Layering tips
+Earthy,Hourglass,Male,Senior (51+),Snowy,Date Night,Sporty,Premium (₹5000-₹15000),Synthetic/Polyester,Slim Fit,Fabric suggestion
+Neutral,Apple,Female,Adult (26-35),Rainy,Wedding Guest,Sporty,Mid-range (₹1000-₹5000),Denim,Relaxed,Weather-appropriate outfit
+Neutral,Plus-size,Non-binary,Mid Adult (36-50),Snowy,Date Night,Streetwear,Budget (<₹1000),Synthetic/Polyester,Tailored,Occasion-specific look
+Bold/Bright,Rectangle,Female,Mid Adult (36-50),Snowy,Casual Outing,Classic/Preppy,Premium (₹5000-₹15000),Synthetic/Polyester,Oversized,Fabric suggestion
+Dark,Apple,Non-binary,Adult (26-35),Cold & Windy,Festival,Streetwear,Premium (₹5000-₹15000),Cotton,Tailored,Style advice for body type
+Dark,Apple,Non-binary,Senior (51+),Cold & Windy,Date Night,Bohemian,Mid-range (₹1000-₹5000),Silk/Satin,Oversized,Occasion-specific look
+Monochrome,Plus-size,Female,Adult (26-35),Rainy,Job Interview,Sporty,Luxury (₹15000+),No preference,Slim Fit,Fabric suggestion
+Neutral,Plus-size,Non-binary,Senior (51+),Humid,Job Interview,Bohemian,Luxury (₹15000+),Denim,Relaxed,Find color match
+Multicolor,Petite,Female,Senior (51+),Rainy,Sports/Gym,Minimalist,Mid-range (₹1000-₹5000),Denim,Oversized,Accessory suggestion
+Monochrome,Inverted Triangle,Female,Young Adult (18-25),Rainy,Formal Event,Bohemian,Luxury (₹15000+),Silk/Satin,Oversized,Accessory suggestion
+Dark,Hourglass,Male,Mid Adult (36-50),Rainy,Party/Night Out,Streetwear,Mid-range (₹1000-₹5000),Linen,Slim Fit,Style advice for body type
+Earthy,Rectangle,Non-binary,Mid Adult (36-50),Mild/Pleasant,Sports/Gym,Business Casual,Luxury (₹15000+),Cotton,Slim Fit,Weather-appropriate outfit
+Dark,Apple,Male,Adult (26-35),Humid,Party/Night Out,Minimalist,Budget (<₹1000),Synthetic/Polyester,Oversized,Weather-appropriate outfit
+Dark,Apple,Female,Young Adult (18-25),Hot & Sunny,Sports/Gym,Sporty,Mid-range (₹1000-₹5000),Cotton,Slim Fit,Occasion-specific look
+Bold/Bright,Rectangle,Non-binary,Senior (51+),Humid,Festival,Vintage,Luxury (₹15000+),Synthetic/Polyester,Oversized,Accessory suggestion
+Monochrome,Apple,Male,Young Adult (18-25),Mild/Pleasant,Casual Outing,Classic/Preppy,Mid-range (₹1000-₹5000),Synthetic/Polyester,Oversized,Weather-appropriate outfit
+Dark,Hourglass,Non-binary,Senior (51+),Cold & Windy,Office/Work,Vintage,Budget (<₹1000),Linen,Regular Fit,Get outfit recommendation
+Earthy,Hourglass,Non-binary,Teen (13-17),Snowy,Casual Outing,Minimalist,Budget (<₹1000),Linen,Tailored,Layering tips
+Neutral,Inverted Triangle,Female,Mid Adult (36-50),Snowy,Formal Event,Classic/Preppy,Budget (<₹1000),Silk/Satin,Tailored,Find color match
+Dark,Inverted Triangle,Female,Senior (51+),Humid,Formal Event,Glamorous,Budget (<₹1000),Wool/Knit,Relaxed,Find color match
+Bold/Bright,Hourglass,Male,Mid Adult (36-50),Cold & Windy,Job Interview,Classic/Preppy,Premium (₹5000-₹15000),No preference,Relaxed,Weather-appropriate outfit
+Bold/Bright,Petite,Female,Adult (26-35),Cold & Windy,Casual Outing,Business Casual,Mid-range (₹1000-₹5000),Synthetic/Polyester,Tailored,Accessory suggestion
+Pastel,Hourglass,Male,Teen (13-17),Hot & Sunny,Job Interview,Business Casual,Mid-range (₹1000-₹5000),Cotton,Relaxed,Find color match
+Dark,Petite,Male,Adult (26-35),Snowy,Party/Night Out,Business Casual,Premium (₹5000-₹15000),Silk/Satin,Tailored,Get outfit recommendation
+Neutral,Plus-size,Male,Teen (13-17),Rainy,Date Night,Vintage,Luxury (₹15000+),Synthetic/Polyester,Slim Fit,Find color match
+Multicolor,Plus-size,Male,Teen (13-17),Cold & Windy,Formal Event,Vintage,Premium (₹5000-₹15000),Linen,Relaxed,Occasion-specific look
+Dark,Hourglass,Female,Adult (26-35),Cold & Windy,Office/Work,Glamorous,Luxury (₹15000+),Linen,Regular Fit,Layering tips
+Dark,Plus-size,Female,Mid Adult (36-50),Snowy,Formal Event,Bohemian,Mid-range (₹1000-₹5000),Synthetic/Polyester,Slim Fit,Style advice for body type
+Neutral,Rectangle,Non-binary,Mid Adult (36-50),Humid,Beach/Vacation,Streetwear,Luxury (₹15000+),No preference,Regular Fit,Get outfit recommendation
+Multicolor,Petite,Non-binary,Young Adult (18-25),Mild/Pleasant,Beach/Vacation,Bohemian,Luxury (₹15000+),Linen,Slim Fit,Find color match
+Bold/Bright,Petite,Female,Teen (13-17),Snowy,Festival,Classic/Preppy,Premium (₹5000-₹15000),Wool/Knit,Relaxed,Find color match
+Monochrome,Petite,Non-binary,Young Adult (18-25),Mild/Pleasant,Date Night,Glamorous,Mid-range (₹1000-₹5000),No preference,Relaxed,Get outfit recommendation
+Neutral,Petite,Male,Senior (51+),Mild/Pleasant,Beach/Vacation,Streetwear,Budget (<₹1000),No preference,Tailored,Accessory suggestion
+Pastel,Apple,Female,Teen (13-17),Humid,Party/Night Out,Glamorous,Luxury (₹15000+),No preference,Oversized,Find color match
+Monochrome,Rectangle,Non-binary,Mid Adult (36-50),Hot & Sunny,Beach/Vacation,Business Casual,Premium (₹5000-₹15000),Cotton,Tailored,Get outfit recommendation
+Neutral,Rectangle,Female,Teen (13-17),Humid,Festival,Minimalist,Budget (<₹1000),No preference,Relaxed,Occasion-specific look
+Earthy,Inverted Triangle,Male,Mid Adult (36-50),Rainy,Date Night,Minimalist,Mid-range (₹1000-₹5000),No preference,Tailored,Accessory suggestion
+Earthy,Plus-size,Non-binary,Senior (51+),Mild/Pleasant,Date Night,Business Casual,Budget (<₹1000),Cotton,Oversized,Get outfit recommendation
+Bold/Bright,Apple,Non-binary,Adult (26-35),Humid,Festival,Vintage,Budget (<₹1000),Cotton,Oversized,Fabric suggestion
+Pastel,Plus-size,Non-binary,Mid Adult (36-50),Hot & Sunny,Wedding Guest,Classic/Preppy,Mid-range (₹1000-₹5000),Cotton,Tailored,Weather-appropriate outfit
+Monochrome,Plus-size,Male,Adult (26-35),Hot & Sunny,Sports/Gym,Minimalist,Budget (<₹1000),No preference,Tailored,Fabric suggestion
+Dark,Inverted Triangle,Non-binary,Young Adult (18-25),Mild/Pleasant,Casual Outing,Minimalist,Luxury (₹15000+),No preference,Relaxed,Fabric suggestion
+Earthy,Plus-size,Male,Senior (51+),Cold & Windy,Formal Event,Bohemian,Luxury (₹15000+),Synthetic/Polyester,Relaxed,Accessory suggestion
+Earthy,Rectangle,Female,Senior (51+),Snowy,Party/Night Out,Sporty,Luxury (₹15000+),Silk/Satin,Regular Fit,Fabric suggestion
+Multicolor,Pear,Male,Mid Adult (36-50),Humid,Festival,Sporty,Premium (₹5000-₹15000),Synthetic/Polyester,Relaxed,Weather-appropriate outfit
+Pastel,Pear,Non-binary,Adult (26-35),Snowy,Date Night,Streetwear,Mid-range (₹1000-₹5000),Wool/Knit,Relaxed,Accessory suggestion
+Dark,Hourglass,Female,Senior (51+),Mild/Pleasant,Job Interview,Glamorous,Premium (₹5000-₹15000),No preference,Tailored,Get outfit recommendation
+Earthy,Hourglass,Male,Mid Adult (36-50),Cold & Windy,Casual Outing,Minimalist,Mid-range (₹1000-₹5000),Silk/Satin,Oversized,Occasion-specific look
+Dark,Apple,Male,Teen (13-17),Snowy,Wedding Guest,Classic/Preppy,Budget (<₹1000),Silk/Satin,Tailored,Find color match
+Earthy,Plus-size,Non-binary,Senior (51+),Cold & Windy,Festival,Glamorous,Mid-range (₹1000-₹5000),Wool/Knit,Regular Fit,Get outfit recommendation
+Monochrome,Rectangle,Female,Adult (26-35),Humid,Casual Outing,Minimalist,Premium (₹5000-₹15000),Denim,Relaxed,Fabric suggestion
+Multicolor,Pear,Non-binary,Adult (26-35),Humid,Festival,Classic/Preppy,Mid-range (₹1000-₹5000),Silk/Satin,Tailored,Style advice for body type
+Dark,Hourglass,Male,Young Adult (18-25),Snowy,Festival,Bohemian,Luxury (₹15000+),Cotton,Tailored,Occasion-specific look
+Earthy,Apple,Male,Young Adult (18-25),Humid,Wedding Guest,Minimalist,Premium (₹5000-₹15000),Linen,Oversized,Get outfit recommendation
+Pastel,Apple,Non-binary,Teen (13-17),Snowy,Job Interview,Sporty,Luxury (₹15000+),No preference,Relaxed,Accessory suggestion
+Neutral,Plus-size,Non-binary,Adult (26-35),Humid,Party/Night Out,Streetwear,Budget (<₹1000),No preference,Relaxed,Style advice for body type
+Monochrome,Inverted Triangle,Non-binary,Mid Adult (36-50),Hot & Sunny,Date Night,Classic/Preppy,Mid-range (₹1000-₹5000),Synthetic/Polyester,Regular Fit,Accessory suggestion
+Bold/Bright,Apple,Male,Senior (51+),Humid,Beach/Vacation,Minimalist,Budget (<₹1000),Synthetic/Polyester,Regular Fit,Fabric suggestion
+Pastel,Petite,Non-binary,Senior (51+),Cold & Windy,Casual Outing,Vintage,Luxury (₹15000+),No preference,Slim Fit,Layering tips
+Bold/Bright,Inverted Triangle,Non-binary,Adult (26-35),Hot & Sunny,Festival,Vintage,Luxury (₹15000+),Linen,Slim Fit,Occasion-specific look
+Dark,Pear,Female,Senior (51+),Hot & Sunny,Office/Work,Streetwear,Budget (<₹1000),Synthetic/Polyester,Slim Fit,Weather-appropriate outfit
+Dark,Petite,Male,Mid Adult (36-50),Hot & Sunny,Party/Night Out,Glamorous,Budget (<₹1000),Synthetic/Polyester,Oversized,Get outfit recommendation
+Monochrome,Petite,Female,Teen (13-17),Hot & Sunny,Office/Work,Minimalist,Mid-range (₹1000-₹5000),No preference,Regular Fit,Find color match
+Earthy,Plus-size,Male,Adult (26-35),Mild/Pleasant,Sports/Gym,Business Casual,Luxury (₹15000+),Linen,Regular Fit,Get outfit recommendation
+Monochrome,Petite,Male,Senior (51+),Hot & Sunny,Job Interview,Bohemian,Budget (<₹1000),Synthetic/Polyester,Slim Fit,Accessory suggestion
+Earthy,Hourglass,Female,Adult (26-35),Humid,Office/Work,Sporty,Luxury (₹15000+),Linen,Tailored,Get outfit recommendation
+Monochrome,Pear,Non-binary,Young Adult (18-25),Cold & Windy,Sports/Gym,Sporty,Mid-range (₹1000-₹5000),Silk/Satin,Regular Fit,Get outfit recommendation
+Earthy,Plus-size,Non-binary,Young Adult (18-25),Hot & Sunny,Casual Outing,Minimalist,Luxury (₹15000+),Wool/Knit,Relaxed,Find color match
+Bold/Bright,Pear,Non-binary,Adult (26-35),Cold & Windy,Sports/Gym,Streetwear,Mid-range (₹1000-₹5000),Denim,Oversized,Occasion-specific look
+Pastel,Hourglass,Male,Senior (51+),Hot & Sunny,Festival,Business Casual,Budget (<₹1000),Silk/Satin,Slim Fit,Occasion-specific look
+Neutral,Pear,Non-binary,Senior (51+),Mild/Pleasant,Date Night,Vintage,Mid-range (₹1000-₹5000),Synthetic/Polyester,Oversized,Find color match
+Bold/Bright,Inverted Triangle,Male,Young Adult (18-25),Rainy,Beach/Vacation,Business Casual,Premium (₹5000-₹15000),Wool/Knit,Regular Fit,Style advice for body type
+Earthy,Inverted Triangle,Female,Adult (26-35),Mild/Pleasant,Formal Event,Minimalist,Premium (₹5000-₹15000),Denim,Oversized,Layering tips
+Bold/Bright,Plus-size,Female,Young Adult (18-25),Snowy,Date Night,Business Casual,Luxury (₹15000+),Linen,Regular Fit,Occasion-specific look
+Monochrome,Inverted Triangle,Male,Young Adult (18-25),Snowy,Job Interview,Bohemian,Premium (₹5000-₹15000),No preference,Oversized,Weather-appropriate outfit
+Bold/Bright,Petite,Non-binary,Teen (13-17),Snowy,Office/Work,Minimalist,Budget (<₹1000),No preference,Relaxed,Layering tips
+Multicolor,Inverted Triangle,Male,Teen (13-17),Humid,Wedding Guest,Business Casual,Mid-range (₹1000-₹5000),Silk/Satin,Tailored,Weather-appropriate outfit
+Multicolor,Inverted Triangle,Non-binary,Adult (26-35),Cold & Windy,Beach/Vacation,Bohemian,Luxury (₹15000+),Silk/Satin,Relaxed,Get outfit recommendation
+Dark,Pear,Non-binary,Young Adult (18-25),Humid,Formal Event,Business Casual,Mid-range (₹1000-₹5000),Denim,Relaxed,Style advice for body type
+Dark,Petite,Female,Adult (26-35),Hot & Sunny,Party/Night Out,Business Casual,Mid-range (₹1000-₹5000),Cotton,Regular Fit,Accessory suggestion
+Pastel,Hourglass,Non-binary,Young Adult (18-25),Humid,Date Night,Glamorous,Luxury (₹15000+),Linen,Slim Fit,Get outfit recommendation
+Dark,Apple,Male,Senior (51+),Snowy,Wedding Guest,Sporty,Mid-range (₹1000-₹5000),Linen,Tailored,Accessory suggestion
+Earthy,Petite,Male,Senior (51+),Rainy,Sports/Gym,Classic/Preppy,Luxury (₹15000+),Silk/Satin,Regular Fit,Fabric suggestion
+Multicolor,Rectangle,Non-binary,Teen (13-17),Humid,Formal Event,Business Casual,Mid-range (₹1000-₹5000),Denim,Slim Fit,Occasion-specific look
+Pastel,Pear,Male,Young Adult (18-25),Rainy,Job Interview,Bohemian,Mid-range (₹1000-₹5000),Linen,Regular Fit,Find color match
+Monochrome,Petite,Female,Mid Adult (36-50),Cold & Windy,Job Interview,Streetwear,Luxury (₹15000+),Cotton,Oversized,Get outfit recommendation
+Pastel,Inverted Triangle,Non-binary,Young Adult (18-25),Cold & Windy,Festival,Minimalist,Mid-range (₹1000-₹5000),Cotton,Oversized,Occasion-specific look
+Pastel,Inverted Triangle,Female,Senior (51+),Humid,Casual Outing,Sporty,Budget (<₹1000),Denim,Tailored,Fabric suggestion
+Multicolor,Rectangle,Male,Young Adult (18-25),Mild/Pleasant,Job Interview,Streetwear,Mid-range (₹1000-₹5000),Wool/Knit,Relaxed,Occasion-specific look
+Pastel,Petite,Non-binary,Adult (26-35),Mild/Pleasant,Job Interview,Bohemian,Mid-range (₹1000-₹5000),Linen,Tailored,Style advice for body type
+Neutral,Hourglass,Male,Senior (51+),Humid,Sports/Gym,Streetwear,Budget (<₹1000),Denim,Tailored,Get outfit recommendation
+Multicolor,Inverted Triangle,Non-binary,Teen (13-17),Hot & Sunny,Beach/Vacation,Streetwear,Budget (<₹1000),No preference,Tailored,Layering tips
+Bold/Bright,Plus-size,Male,Senior (51+),Mild/Pleasant,Party/Night Out,Business Casual,Luxury (₹15000+),Silk/Satin,Relaxed,Find color match
+Monochrome,Pear,Female,Mid Adult (36-50),Cold & Windy,Office/Work,Sporty,Luxury (₹15000+),Silk/Satin,Oversized,Get outfit recommendation
+Dark,Petite,Male,Senior (51+),Humid,Office/Work,Minimalist,Luxury (₹15000+),Synthetic/Polyester,Oversized,Accessory suggestion
+Monochrome,Apple,Male,Young Adult (18-25),Mild/Pleasant,Job Interview,Sporty,Premium (₹5000-₹15000),No preference,Relaxed,Layering tips
+Earthy,Apple,Non-binary,Adult (26-35),Snowy,Sports/Gym,Classic/Preppy,Luxury (₹15000+),Wool/Knit,Relaxed,Fabric suggestion
+Pastel,Apple,Non-binary,Senior (51+),Mild/Pleasant,Wedding Guest,Sporty,Premium (₹5000-₹15000),No preference,Tailored,Style advice for body type
+Multicolor,Plus-size,Non-binary,Teen (13-17),Snowy,Party/Night Out,Business Casual,Mid-range (₹1000-₹5000),Cotton,Oversized,Layering tips
+Multicolor,Apple,Non-binary,Senior (51+),Snowy,Casual Outing,Streetwear,Luxury (₹15000+),Synthetic/Polyester,Slim Fit,Find color match
+Multicolor,Pear,Female,Senior (51+),Mild/Pleasant,Office/Work,Bohemian,Premium (₹5000-₹15000),Denim,Regular Fit,Find color match
+Earthy,Hourglass,Non-binary,Mid Adult (36-50),Mild/Pleasant,Job Interview,Sporty,Budget (<₹1000),No preference,Oversized,Fabric suggestion
+Monochrome,Hourglass,Male,Senior (51+),Rainy,Party/Night Out,Minimalist,Mid-range (₹1000-₹5000),Wool/Knit,Oversized,Get outfit recommendation
+Bold/Bright,Pear,Non-binary,Teen (13-17),Cold & Windy,Office/Work,Sporty,Luxury (₹15000+),Silk/Satin,Tailored,Layering tips
+Earthy,Pear,Non-binary,Teen (13-17),Snowy,Office/Work,Bohemian,Premium (₹5000-₹15000),Synthetic/Polyester,Relaxed,Accessory suggestion
+Bold/Bright,Plus-size,Female,Young Adult (18-25),Humid,Party/Night Out,Business Casual,Luxury (₹15000+),Wool/Knit,Slim Fit,Occasion-specific look
+Pastel,Rectangle,Non-binary,Teen (13-17),Humid,Office/Work,Sporty,Premium (₹5000-₹15000),Cotton,Relaxed,Occasion-specific look
+Earthy,Plus-size,Non-binary,Adult (26-35),Snowy,Beach/Vacation,Glamorous,Luxury (₹15000+),No preference,Oversized,Accessory suggestion
+Multicolor,Rectangle,Non-binary,Mid Adult (36-50),Humid,Casual Outing,Business Casual,Budget (<₹1000),Silk/Satin,Slim Fit,Layering tips
+Dark,Plus-size,Male,Young Adult (18-25),Rainy,Sports/Gym,Vintage,Budget (<₹1000),Synthetic/Polyester,Regular Fit,Weather-appropriate outfit
+Bold/Bright,Hourglass,Female,Adult (26-35),Hot & Sunny,Festival,Streetwear,Luxury (₹15000+),Silk/Satin,Regular Fit,Weather-appropriate outfit
+Earthy,Apple,Male,Young Adult (18-25),Mild/Pleasant,Party/Night Out,Classic/Preppy,Mid-range (₹1000-₹5000),No preference,Regular Fit,Weather-appropriate outfit
+Pastel,Pear,Male,Senior (51+),Rainy,Formal Event,Bohemian,Budget (<₹1000),Cotton,Tailored,Get outfit recommendation
+Multicolor,Plus-size,Non-binary,Teen (13-17),Mild/Pleasant,Date Night,Vintage,Luxury (₹15000+),Wool/Knit,Regular Fit,Fabric suggestion
+Pastel,Plus-size,Non-binary,Adult (26-35),Mild/Pleasant,Party/Night Out,Streetwear,Budget (<₹1000),Wool/Knit,Tailored,Fabric suggestion
+Earthy,Hourglass,Non-binary,Adult (26-35),Mild/Pleasant,Formal Event,Business Casual,Budget (<₹1000),Synthetic/Polyester,Relaxed,Fabric suggestion
+Bold/Bright,Petite,Male,Teen (13-17),Snowy,Party/Night Out,Glamorous,Budget (<₹1000),Silk/Satin,Regular Fit,Occasion-specific look
+Pastel,Inverted Triangle,Female,Young Adult (18-25),Rainy,Beach/Vacation,Vintage,Premium (₹5000-₹15000),Denim,Tailored,Layering tips
+Pastel,Rectangle,Non-binary,Adult (26-35),Rainy,Sports/Gym,Sporty,Luxury (₹15000+),Denim,Relaxed,Style advice for body type
+Earthy,Petite,Male,Teen (13-17),Snowy,Wedding Guest,Classic/Preppy,Luxury (₹15000+),No preference,Tailored,Weather-appropriate outfit
+Pastel,Plus-size,Non-binary,Young Adult (18-25),Mild/Pleasant,Casual Outing,Streetwear,Luxury (₹15000+),Linen,Oversized,Accessory suggestion
+Multicolor,Rectangle,Female,Adult (26-35),Humid,Job Interview,Minimalist,Luxury (₹15000+),Cotton,Oversized,Get outfit recommendation
+Pastel,Plus-size,Female,Mid Adult (36-50),Snowy,Office/Work,Business Casual,Premium (₹5000-₹15000),Silk/Satin,Regular Fit,Accessory suggestion
+Earthy,Inverted Triangle,Female,Adult (26-35),Hot & Sunny,Sports/Gym,Bohemian,Premium (₹5000-₹15000),No preference,Relaxed,Weather-appropriate outfit
+Earthy,Inverted Triangle,Non-binary,Senior (51+),Cold & Windy,Wedding Guest,Vintage,Premium (₹5000-₹15000),Synthetic/Polyester,Relaxed,Fabric suggestion
+Multicolor,Petite,Female,Teen (13-17),Mild/Pleasant,Job Interview,Sporty,Luxury (₹15000+),Synthetic/Polyester,Oversized,Style advice for body type
+Dark,Plus-size,Female,Mid Adult (36-50),Snowy,Job Interview,Glamorous,Budget (<₹1000),Cotton,Oversized,Accessory suggestion
+Pastel,Apple,Female,Adult (26-35),Snowy,Wedding Guest,Glamorous,Premium (₹5000-₹15000),Linen,Regular Fit,Fabric suggestion
+Monochrome,Pear,Male,Teen (13-17),Cold & Windy,Party/Night Out,Sporty,Budget (<₹1000),Denim,Oversized,Layering tips
+Neutral,Hourglass,Male,Mid Adult (36-50),Humid,Casual Outing,Minimalist,Luxury (₹15000+),Wool/Knit,Slim Fit,Find color match
+Bold/Bright,Inverted Triangle,Male,Teen (13-17),Snowy,Sports/Gym,Sporty,Mid-range (₹1000-₹5000),Denim,Regular Fit,Fabric suggestion
+Dark,Pear,Male,Senior (51+),Cold & Windy,Casual Outing,Minimalist,Premium (₹5000-₹15000),No preference,Regular Fit,Fabric suggestion
+Monochrome,Plus-size,Non-binary,Adult (26-35),Humid,Beach/Vacation,Streetwear,Mid-range (₹1000-₹5000),Wool/Knit,Relaxed,Fabric suggestion
+Dark,Petite,Non-binary,Senior (51+),Mild/Pleasant,Festival,Sporty,Premium (₹5000-₹15000),Linen,Relaxed,Weather-appropriate outfit
+Multicolor,Hourglass,Female,Adult (26-35),Rainy,Sports/Gym,Sporty,Mid-range (₹1000-₹5000),Silk/Satin,Slim Fit,Get outfit recommendation
+Earthy,Plus-size,Male,Adult (26-35),Rainy,Beach/Vacation,Minimalist,Luxury (₹15000+),No preference,Tailored,Occasion-specific look
+Neutral,Plus-size,Female,Adult (26-35),Humid,Party/Night Out,Minimalist,Premium (₹5000-₹15000),Denim,Tailored,Layering tips
+Monochrome,Pear,Male,Mid Adult (36-50),Mild/Pleasant,Party/Night Out,Sporty,Budget (<₹1000),Linen,Oversized,Occasion-specific look
+Bold/Bright,Petite,Non-binary,Senior (51+),Rainy,Sports/Gym,Classic/Preppy,Budget (<₹1000),Denim,Oversized,Occasion-specific look
+Neutral,Petite,Female,Senior (51+),Mild/Pleasant,Wedding Guest,Business Casual,Mid-range (₹1000-₹5000),Silk/Satin,Slim Fit,Style advice for body type
+Neutral,Inverted Triangle,Male,Young Adult (18-25),Hot & Sunny,Wedding Guest,Sporty,Mid-range (₹1000-₹5000),Synthetic/Polyester,Tailored,Get outfit recommendation
+Pastel,Hourglass,Male,Teen (13-17),Mild/Pleasant,Party/Night Out,Vintage,Luxury (₹15000+),Silk/Satin,Tailored,Accessory suggestion
+Monochrome,Petite,Male,Adult (26-35),Hot & Sunny,Formal Event,Minimalist,Premium (₹5000-₹15000),No preference,Tailored,Find color match
+Earthy,Rectangle,Male,Young Adult (18-25),Rainy,Sports/Gym,Minimalist,Budget (<₹1000),No preference,Oversized,Layering tips
+Multicolor,Rectangle,Male,Teen (13-17),Cold & Windy,Beach/Vacation,Bohemian,Mid-range (₹1000-₹5000),Linen,Tailored,Occasion-specific look
+Bold/Bright,Pear,Non-binary,Teen (13-17),Snowy,Festival,Bohemian,Premium (₹5000-₹15000),Linen,Regular Fit,Weather-appropriate outfit
+Bold/Bright,Hourglass,Non-binary,Young Adult (18-25),Hot & Sunny,Party/Night Out,Glamorous,Premium (₹5000-₹15000),Cotton,Oversized,Occasion-specific look
+Earthy,Hourglass,Female,Young Adult (18-25),Hot & Sunny,Casual Outing,Business Casual,Mid-range (₹1000-₹5000),Silk/Satin,Slim Fit,Weather-appropriate outfit
+Pastel,Rectangle,Male,Senior (51+),Rainy,Casual Outing,Minimalist,Premium (₹5000-₹15000),Synthetic/Polyester,Oversized,Find color match
+Pastel,Rectangle,Male,Adult (26-35),Humid,Date Night,Business Casual,Mid-range (₹1000-₹5000),Cotton,Tailored,Accessory suggestion
+Dark,Pear,Female,Teen (13-17),Mild/Pleasant,Beach/Vacation,Sporty,Luxury (₹15000+),Denim,Relaxed,Style advice for body type
+Earthy,Apple,Female,Mid Adult (36-50),Rainy,Job Interview,Streetwear,Budget (<₹1000),Wool/Knit,Oversized,Fabric suggestion
+Bold/Bright,Plus-size,Female,Senior (51+),Rainy,Beach/Vacation,Minimalist,Luxury (₹15000+),Synthetic/Polyester,Oversized,Get outfit recommendation
+Earthy,Plus-size,Female,Senior (51+),Cold & Windy,Date Night,Bohemian,Luxury (₹15000+),Denim,Relaxed,Fabric suggestion
+Multicolor,Inverted Triangle,Male,Senior (51+),Rainy,Date Night,Glamorous,Premium (₹5000-₹15000),Cotton,Slim Fit,Find color match
+Neutral,Plus-size,Male,Young Adult (18-25),Hot & Sunny,Party/Night Out,Bohemian,Luxury (₹15000+),Denim,Slim Fit,Get outfit recommendation
+Earthy,Petite,Female,Mid Adult (36-50),Humid,Job Interview,Sporty,Budget (<₹1000),Silk/Satin,Oversized,Find color match
+Neutral,Pear,Non-binary,Mid Adult (36-50),Hot & Sunny,Beach/Vacation,Minimalist,Premium (₹5000-₹15000),Wool/Knit,Tailored,Accessory suggestion
+Multicolor,Petite,Male,Senior (51+),Rainy,Festival,Minimalist,Budget (<₹1000),No preference,Regular Fit,Find color match
+Pastel,Inverted Triangle,Male,Teen (13-17),Snowy,Party/Night Out,Glamorous,Mid-range (₹1000-₹5000),Denim,Relaxed,Weather-appropriate outfit
+Earthy,Petite,Male,Senior (51+),Snowy,Festival,Glamorous,Budget (<₹1000),No preference,Relaxed,Accessory suggestion
+Dark,Rectangle,Non-binary,Mid Adult (36-50),Hot & Sunny,Formal Event,Streetwear,Luxury (₹15000+),Wool/Knit,Regular Fit,Style advice for body type
+Earthy,Inverted Triangle,Female,Adult (26-35),Rainy,Festival,Vintage,Premium (₹5000-₹15000),Linen,Tailored,Accessory suggestion
+Earthy,Pear,Non-binary,Senior (51+),Cold & Windy,Sports/Gym,Sporty,Premium (₹5000-₹15000),Linen,Tailored,Layering tips
+Neutral,Petite,Male,Adult (26-35),Humid,Casual Outing,Streetwear,Premium (₹5000-₹15000),Cotton,Regular Fit,Weather-appropriate outfit
+Pastel,Plus-size,Female,Teen (13-17),Snowy,Wedding Guest,Streetwear,Budget (<₹1000),Cotton,Tailored,Accessory suggestion
+Pastel,Pear,Female,Adult (26-35),Humid,Party/Night Out,Classic/Preppy,Premium (₹5000-₹15000),No preference,Regular Fit,Find color match
+Earthy,Rectangle,Non-binary,Young Adult (18-25),Snowy,Office/Work,Vintage,Luxury (₹15000+),Denim,Tailored,Find color match
+Earthy,Petite,Female,Teen (13-17),Snowy,Job Interview,Glamorous,Budget (<₹1000),No preference,Slim Fit,Accessory suggestion
+Bold/Bright,Plus-size,Female,Mid Adult (36-50),Hot & Sunny,Party/Night Out,Minimalist,Luxury (₹15000+),Cotton,Regular Fit,Get outfit recommendation
+Bold/Bright,Inverted Triangle,Non-binary,Young Adult (18-25),Rainy,Festival,Classic/Preppy,Mid-range (₹1000-₹5000),Cotton,Tailored,Fabric suggestion
+Multicolor,Inverted Triangle,Non-binary,Senior (51+),Hot & Sunny,Party/Night Out,Glamorous,Premium (₹5000-₹15000),No preference,Tailored,Style advice for body type
+Pastel,Apple,Male,Mid Adult (36-50),Humid,Casual Outing,Glamorous,Premium (₹5000-₹15000),Cotton,Tailored,Layering tips
+Multicolor,Petite,Male,Young Adult (18-25),Mild/Pleasant,Festival,Classic/Preppy,Luxury (₹15000+),Linen,Relaxed,Weather-appropriate outfit
+Earthy,Inverted Triangle,Non-binary,Senior (51+),Cold & Windy,Party/Night Out,Bohemian,Premium (₹5000-₹15000),No preference,Tailored,Accessory suggestion
+Dark,Inverted Triangle,Male,Teen (13-17),Snowy,Sports/Gym,Glamorous,Premium (₹5000-₹15000),Silk/Satin,Oversized,Accessory suggestion
+Bold/Bright,Inverted Triangle,Non-binary,Teen (13-17),Rainy,Formal Event,Vintage,Luxury (₹15000+),Wool/Knit,Oversized,Fabric suggestion
+Neutral,Plus-size,Male,Young Adult (18-25),Snowy,Date Night,Streetwear,Budget (<₹1000),Cotton,Slim Fit,Weather-appropriate outfit
+Earthy,Pear,Female,Teen (13-17),Rainy,Office/Work,Sporty,Luxury (₹15000+),Linen,Slim Fit,Accessory suggestion
+Pastel,Petite,Non-binary,Young Adult (18-25),Cold & Windy,Festival,Sporty,Luxury (₹15000+),Wool/Knit,Oversized,Get outfit recommendation
+Monochrome,Inverted Triangle,Non-binary,Senior (51+),Hot & Sunny,Wedding Guest,Streetwear,Budget (<₹1000),Silk/Satin,Oversized,Occasion-specific look
+Neutral,Rectangle,Non-binary,Teen (13-17),Hot & Sunny,Sports/Gym,Sporty,Premium (₹5000-₹15000),No preference,Slim Fit,Get outfit recommendation
+Bold/Bright,Plus-size,Non-binary,Mid Adult (36-50),Cold & Windy,Sports/Gym,Bohemian,Premium (₹5000-₹15000),Linen,Relaxed,Find color match
+Pastel,Pear,Non-binary,Mid Adult (36-50),Humid,Casual Outing,Minimalist,Mid-range (₹1000-₹5000),Wool/Knit,Regular Fit,Accessory suggestion
+Monochrome,Rectangle,Non-binary,Young Adult (18-25),Hot & Sunny,Date Night,Vintage,Premium (₹5000-₹15000),Synthetic/Polyester,Regular Fit,Weather-appropriate outfit
+Earthy,Apple,Male,Adult (26-35),Mild/Pleasant,Casual Outing,Sporty,Mid-range (₹1000-₹5000),Denim,Regular Fit,Layering tips
+Dark,Pear,Male,Mid Adult (36-50),Humid,Job Interview,Classic/Preppy,Luxury (₹15000+),Denim,Relaxed,Style advice for body type
+Monochrome,Apple,Non-binary,Adult (26-35),Mild/Pleasant,Festival,Streetwear,Mid-range (₹1000-₹5000),Synthetic/Polyester,Oversized,Weather-appropriate outfit
+Multicolor,Pear,Female,Senior (51+),Cold & Windy,Sports/Gym,Streetwear,Mid-range (₹1000-₹5000),Silk/Satin,Slim Fit,Find color match
+Pastel,Apple,Male,Teen (13-17),Rainy,Sports/Gym,Glamorous,Premium (₹5000-₹15000),Linen,Regular Fit,Style advice for body type
+Multicolor,Pear,Male,Young Adult (18-25),Cold & Windy,Casual Outing,Sporty,Mid-range (₹1000-₹5000),Wool/Knit,Oversized,Weather-appropriate outfit
+Dark,Hourglass,Female,Teen (13-17),Snowy,Beach/Vacation,Streetwear,Luxury (₹15000+),Synthetic/Polyester,Regular Fit,Style advice for body type
+Multicolor,Rectangle,Female,Mid Adult (36-50),Cold & Windy,Formal Event,Classic/Preppy,Mid-range (₹1000-₹5000),Cotton,Tailored,Get outfit recommendation
+Bold/Bright,Rectangle,Male,Young Adult (18-25),Cold & Windy,Office/Work,Streetwear,Luxury (₹15000+),No preference,Relaxed,Fabric suggestion
+Dark,Apple,Female,Young Adult (18-25),Mild/Pleasant,Sports/Gym,Minimalist,Luxury (₹15000+),Synthetic/Polyester,Regular Fit,Layering tips
+Earthy,Petite,Non-binary,Senior (51+),Humid,Festival,Minimalist,Budget (<₹1000),Linen,Tailored,Get outfit recommendation
+Pastel,Inverted Triangle,Non-binary,Mid Adult (36-50),Snowy,Casual Outing,Glamorous,Budget (<₹1000),Denim,Regular Fit,Fabric suggestion
+Monochrome,Apple,Female,Mid Adult (36-50),Cold & Windy,Sports/Gym,Sporty,Budget (<₹1000),Synthetic/Polyester,Relaxed,Style advice for body type
+Monochrome,Plus-size,Non-binary,Mid Adult (36-50),Hot & Sunny,Festival,Bohemian,Mid-range (₹1000-₹5000),No preference,Relaxed,Style advice for body type
+Monochrome,Rectangle,Female,Mid Adult (36-50),Hot & Sunny,Formal Event,Business Casual,Mid-range (₹1000-₹5000),Linen,Slim Fit,Occasion-specific look
+Bold/Bright,Petite,Non-binary,Young Adult (18-25),Snowy,Office/Work,Bohemian,Budget (<₹1000),Synthetic/Polyester,Tailored,Accessory suggestion
+Neutral,Inverted Triangle,Non-binary,Mid Adult (36-50),Snowy,Festival,Streetwear,Luxury (₹15000+),Wool/Knit,Tailored,Get outfit recommendation
+Multicolor,Pear,Female,Senior (51+),Snowy,Formal Event,Streetwear,Mid-range (₹1000-₹5000),Denim,Slim Fit,Layering tips
+Bold/Bright,Apple,Non-binary,Mid Adult (36-50),Rainy,Formal Event,Bohemian,Mid-range (₹1000-₹5000),Denim,Slim Fit,Occasion-specific look
+Neutral,Rectangle,Female,Mid Adult (36-50),Humid,Casual Outing,Business Casual,Mid-range (₹1000-₹5000),Denim,Relaxed,Fabric suggestion
+Monochrome,Rectangle,Female,Teen (13-17),Humid,Job Interview,Minimalist,Mid-range (₹1000-₹5000),Wool/Knit,Regular Fit,Weather-appropriate outfit
+Neutral,Pear,Male,Teen (13-17),Snowy,Date Night,Minimalist,Mid-range (₹1000-₹5000),No preference,Slim Fit,Occasion-specific look
+Bold/Bright,Hourglass,Male,Teen (13-17),Mild/Pleasant,Formal Event,Streetwear,Premium (₹5000-₹15000),Wool/Knit,Relaxed,Style advice for body type
+Monochrome,Petite,Non-binary,Adult (26-35),Hot & Sunny,Office/Work,Sporty,Premium (₹5000-₹15000),Silk/Satin,Tailored,Find color match
+Multicolor,Rectangle,Non-binary,Teen (13-17),Rainy,Beach/Vacation,Streetwear,Budget (<₹1000),Synthetic/Polyester,Regular Fit,Accessory suggestion
+Earthy,Rectangle,Non-binary,Young Adult (18-25),Snowy,Party/Night Out,Minimalist,Budget (<₹1000),Wool/Knit,Relaxed,Find color match
+Monochrome,Petite,Non-binary,Senior (51+),Snowy,Wedding Guest,Glamorous,Premium (₹5000-₹15000),Silk/Satin,Relaxed,Accessory suggestion
+Pastel,Inverted Triangle,Non-binary,Mid Adult (36-50),Humid,Beach/Vacation,Business Casual,Mid-range (₹1000-₹5000),Wool/Knit,Oversized,Occasion-specific look
+Pastel,Hourglass,Male,Teen (13-17),Mild/Pleasant,Office/Work,Classic/Preppy,Luxury (₹15000+),Linen,Slim Fit,Accessory suggestion
+Bold/Bright,Inverted Triangle,Non-binary,Young Adult (18-25),Hot & Sunny,Party/Night Out,Sporty,Premium (₹5000-₹15000),No preference,Slim Fit,Occasion-specific look
+Bold/Bright,Inverted Triangle,Non-binary,Adult (26-35),Hot & Sunny,Office/Work,Vintage,Premium (₹5000-₹15000),Linen,Relaxed,Get outfit recommendation
+Multicolor,Pear,Male,Adult (26-35),Rainy,Beach/Vacation,Business Casual,Budget (<₹1000),Synthetic/Polyester,Oversized,Fabric suggestion
+Pastel,Petite,Female,Senior (51+),Rainy,Beach/Vacation,Glamorous,Budget (<₹1000),No preference,Relaxed,Occasion-specific look
+Earthy,Petite,Non-binary,Adult (26-35),Humid,Festival,Minimalist,Mid-range (₹1000-₹5000),Wool/Knit,Regular Fit,Accessory suggestion
+Neutral,Pear,Female,Teen (13-17),Rainy,Sports/Gym,Streetwear,Luxury (₹15000+),Denim,Relaxed,Find color match
+Multicolor,Plus-size,Female,Adult (26-35),Snowy,Casual Outing,Sporty,Luxury (₹15000+),Cotton,Tailored,Weather-appropriate outfit
+Bold/Bright,Rectangle,Female,Young Adult (18-25),Humid,Wedding Guest,Streetwear,Budget (<₹1000),Silk/Satin,Slim Fit,Weather-appropriate outfit
+Neutral,Rectangle,Non-binary,Teen (13-17),Mild/Pleasant,Festival,Streetwear,Mid-range (₹1000-₹5000),Silk/Satin,Tailored,Occasion-specific look
+Multicolor,Apple,Male,Teen (13-17),Humid,Formal Event,Classic/Preppy,Budget (<₹1000),Linen,Tailored,Find color match
+Neutral,Apple,Male,Senior (51+),Hot & Sunny,Date Night,Business Casual,Budget (<₹1000),Cotton,Relaxed,Occasion-specific look
+Neutral,Inverted Triangle,Female,Young Adult (18-25),Rainy,Party/Night Out,Classic/Preppy,Premium (₹5000-₹15000),Silk/Satin,Relaxed,Accessory suggestion
+Multicolor,Rectangle,Non-binary,Teen (13-17),Rainy,Formal Event,Streetwear,Premium (₹5000-₹15000),Cotton,Slim Fit,Find color match
+Pastel,Inverted Triangle,Female,Senior (51+),Rainy,Wedding Guest,Streetwear,Premium (₹5000-₹15000),Wool/Knit,Oversized,Style advice for body type
+Neutral,Apple,Non-binary,Adult (26-35),Humid,Beach/Vacation,Minimalist,Mid-range (₹1000-₹5000),Cotton,Tailored,Get outfit recommendation
+Neutral,Rectangle,Male,Teen (13-17),Mild/Pleasant,Sports/Gym,Streetwear,Luxury (₹15000+),Wool/Knit,Regular Fit,Occasion-specific look
+Bold/Bright,Plus-size,Male,Senior (51+),Hot & Sunny,Beach/Vacation,Streetwear,Budget (<₹1000),No preference,Tailored,Find color match
+Monochrome,Apple,Non-binary,Mid Adult (36-50),Mild/Pleasant,Party/Night Out,Classic/Preppy,Mid-range (₹1000-₹5000),No preference,Relaxed,Occasion-specific look
+Bold/Bright,Rectangle,Male,Adult (26-35),Rainy,Beach/Vacation,Business Casual,Budget (<₹1000),Cotton,Tailored,Find color match
+Bold/Bright,Rectangle,Female,Young Adult (18-25),Rainy,Date Night,Streetwear,Budget (<₹1000),Linen,Slim Fit,Accessory suggestion
+Earthy,Petite,Male,Adult (26-35),Humid,Beach/Vacation,Glamorous,Luxury (₹15000+),Denim,Relaxed,Weather-appropriate outfit
+Earthy,Pear,Female,Mid Adult (36-50),Hot & Sunny,Date Night,Classic/Preppy,Luxury (₹15000+),No preference,Tailored,Accessory suggestion
+Earthy,Petite,Male,Young Adult (18-25),Snowy,Office/Work,Business Casual,Budget (<₹1000),Wool/Knit,Relaxed,Fabric suggestion
+Bold/Bright,Inverted Triangle,Male,Mid Adult (36-50),Cold & Windy,Wedding Guest,Glamorous,Budget (<₹1000),Wool/Knit,Slim Fit,Layering tips
+Bold/Bright,Rectangle,Non-binary,Teen (13-17),Hot & Sunny,Party/Night Out,Streetwear,Budget (<₹1000),No preference,Oversized,Style advice for body type
+Monochrome,Inverted Triangle,Female,Mid Adult (36-50),Humid,Job Interview,Business Casual,Mid-range (₹1000-₹5000),Denim,Regular Fit,Occasion-specific look
+Earthy,Plus-size,Non-binary,Adult (26-35),Mild/Pleasant,Date Night,Bohemian,Budget (<₹1000),Wool/Knit,Relaxed,Layering tips
+Multicolor,Pear,Female,Teen (13-17),Rainy,Festival,Minimalist,Budget (<₹1000),Synthetic/Polyester,Relaxed,Accessory suggestion
+Neutral,Plus-size,Female,Teen (13-17),Cold & Windy,Sports/Gym,Glamorous,Premium (₹5000-₹15000),Synthetic/Polyester,Tailored,Layering tips
+Monochrome,Rectangle,Non-binary,Young Adult (18-25),Snowy,Formal Event,Business Casual,Mid-range (₹1000-₹5000),Denim,Relaxed,Layering tips
+Multicolor,Apple,Female,Young Adult (18-25),Rainy,Formal Event,Streetwear,Budget (<₹1000),Cotton,Slim Fit,Style advice for body type
+Dark,Rectangle,Non-binary,Mid Adult (36-50),Cold & Windy,Office/Work,Streetwear,Luxury (₹15000+),No preference,Tailored,Layering tips
+Earthy,Pear,Female,Senior (51+),Mild/Pleasant,Festival,Business Casual,Luxury (₹15000+),Silk/Satin,Oversized,Style advice for body type
+Monochrome,Inverted Triangle,Male,Senior (51+),Mild/Pleasant,Party/Night Out,Sporty,Luxury (₹15000+),Wool/Knit,Relaxed,Accessory suggestion
+Neutral,Hourglass,Non-binary,Mid Adult (36-50),Snowy,Date Night,Bohemian,Luxury (₹15000+),Synthetic/Polyester,Slim Fit,Style advice for body type
+Dark,Petite,Non-binary,Adult (26-35),Mild/Pleasant,Festival,Bohemian,Budget (<₹1000),Denim,Tailored,Find color match
+Dark,Petite,Non-binary,Senior (51+),Rainy,Job Interview,Minimalist,Premium (₹5000-₹15000),Wool/Knit,Slim Fit,Fabric suggestion
+Monochrome,Inverted Triangle,Female,Senior (51+),Snowy,Date Night,Glamorous,Premium (₹5000-₹15000),No preference,Regular Fit,Occasion-specific look
+Pastel,Hourglass,Non-binary,Senior (51+),Snowy,Wedding Guest,Sporty,Budget (<₹1000),Synthetic/Polyester,Tailored,Style advice for body type
+Earthy,Hourglass,Non-binary,Adult (26-35),Snowy,Job Interview,Minimalist,Premium (₹5000-₹15000),Linen,Slim Fit,Style advice for body type
+Earthy,Hourglass,Female,Adult (26-35),Cold & Windy,Job Interview,Sporty,Premium (₹5000-₹15000),No preference,Regular Fit,Get outfit recommendation
+Dark,Hourglass,Non-binary,Young Adult (18-25),Humid,Formal Event,Business Casual,Premium (₹5000-₹15000),No preference,Oversized,Occasion-specific look
+Multicolor,Petite,Male,Mid Adult (36-50),Cold & Windy,Festival,Minimalist,Premium (₹5000-₹15000),Cotton,Oversized,Style advice for body type
+Multicolor,Rectangle,Female,Mid Adult (36-50),Cold & Windy,Beach/Vacation,Streetwear,Mid-range (₹1000-₹5000),Wool/Knit,Regular Fit,Get outfit recommendation
+Dark,Apple,Male,Teen (13-17),Cold & Windy,Beach/Vacation,Glamorous,Luxury (₹15000+),Silk/Satin,Tailored,Weather-appropriate outfit
+Monochrome,Petite,Non-binary,Mid Adult (36-50),Mild/Pleasant,Wedding Guest,Streetwear,Luxury (₹15000+),Cotton,Regular Fit,Fabric suggestion
+Monochrome,Petite,Female,Senior (51+),Snowy,Casual Outing,Bohemian,Premium (₹5000-₹15000),No preference,Tailored,Occasion-specific look
+Bold/Bright,Apple,Female,Teen (13-17),Rainy,Job Interview,Glamorous,Luxury (₹15000+),No preference,Oversized,Weather-appropriate outfit
+Earthy,Apple,Non-binary,Young Adult (18-25),Rainy,Festival,Minimalist,Budget (<₹1000),No preference,Slim Fit,Get outfit recommendation
+Monochrome,Hourglass,Non-binary,Teen (13-17),Snowy,Beach/Vacation,Vintage,Mid-range (₹1000-₹5000),Synthetic/Polyester,Regular Fit,Occasion-specific look
+Pastel,Hourglass,Male,Senior (51+),Hot & Sunny,Casual Outing,Classic/Preppy,Budget (<₹1000),Synthetic/Polyester,Slim Fit,Find color match
+Multicolor,Inverted Triangle,Male,Mid Adult (36-50),Snowy,Job Interview,Streetwear,Budget (<₹1000),Synthetic/Polyester,Oversized,Occasion-specific look
+Bold/Bright,Rectangle,Non-binary,Teen (13-17),Snowy,Beach/Vacation,Sporty,Luxury (₹15000+),Synthetic/Polyester,Regular Fit,Occasion-specific look
+Pastel,Plus-size,Male,Adult (26-35),Hot & Sunny,Sports/Gym,Glamorous,Premium (₹5000-₹15000),Cotton,Regular Fit,Occasion-specific look
+Pastel,Rectangle,Male,Mid Adult (36-50),Cold & Windy,Job Interview,Glamorous,Mid-range (₹1000-₹5000),Synthetic/Polyester,Tailored,Find color match
+Pastel,Inverted Triangle,Female,Young Adult (18-25),Humid,Office/Work,Business Casual,Premium (₹5000-₹15000),Cotton,Slim Fit,Find color match
+Neutral,Inverted Triangle,Non-binary,Adult (26-35),Mild/Pleasant,Casual Outing,Business Casual,Mid-range (₹1000-₹5000),Synthetic/Polyester,Slim Fit,Get outfit recommendation
+Dark,Rectangle,Female,Young Adult (18-25),Snowy,Date Night,Glamorous,Budget (<₹1000),Wool/Knit,Tailored,Fabric suggestion
+Monochrome,Rectangle,Non-binary,Teen (13-17),Humid,Party/Night Out,Minimalist,Luxury (₹15000+),Synthetic/Polyester,Tailored,Find color match
+Earthy,Inverted Triangle,Female,Adult (26-35),Snowy,Wedding Guest,Glamorous,Budget (<₹1000),Synthetic/Polyester,Slim Fit,Accessory suggestion
+Earthy,Plus-size,Female,Teen (13-17),Mild/Pleasant,Wedding Guest,Classic/Preppy,Mid-range (₹1000-₹5000),Wool/Knit,Slim Fit,Layering tips
+Dark,Pear,Female,Mid Adult (36-50),Hot & Sunny,Date Night,Business Casual,Budget (<₹1000),Synthetic/Polyester,Tailored,Weather-appropriate outfit
+Pastel,Hourglass,Male,Teen (13-17),Snowy,Job Interview,Classic/Preppy,Luxury (₹15000+),Linen,Slim Fit,Occasion-specific look
+Monochrome,Inverted Triangle,Female,Teen (13-17),Hot & Sunny,Date Night,Minimalist,Premium (₹5000-₹15000),No preference,Slim Fit,Layering tips
+Neutral,Pear,Non-binary,Senior (51+),Mild/Pleasant,Festival,Streetwear,Mid-range (₹1000-₹5000),Cotton,Slim Fit,Style advice for body type
+Monochrome,Petite,Male,Mid Adult (36-50),Humid,Casual Outing,Classic/Preppy,Mid-range (₹1000-₹5000),Cotton,Oversized,Get outfit recommendation
+Bold/Bright,Plus-size,Male,Mid Adult (36-50),Humid,Formal Event,Bohemian,Budget (<₹1000),Cotton,Tailored,Weather-appropriate outfit
+Neutral,Plus-size,Male,Mid Adult (36-50),Rainy,Sports/Gym,Vintage,Budget (<₹1000),Synthetic/Polyester,Relaxed,Style advice for body type
+Bold/Bright,Plus-size,Male,Teen (13-17),Humid,Formal Event,Vintage,Budget (<₹1000),Cotton,Regular Fit,Style advice for body type
+Multicolor,Rectangle,Male,Adult (26-35),Humid,Formal Event,Business Casual,Mid-range (₹1000-₹5000),Wool/Knit,Slim Fit,Style advice for body type
+Neutral,Plus-size,Non-binary,Senior (51+),Mild/Pleasant,Formal Event,Minimalist,Luxury (₹15000+),Cotton,Slim Fit,Get outfit recommendation
+Pastel,Hourglass,Non-binary,Senior (51+),Rainy,Sports/Gym,Business Casual,Mid-range (₹1000-₹5000),Denim,Oversized,Occasion-specific look
+Earthy,Rectangle,Female,Young Adult (18-25),Cold & Windy,Job Interview,Minimalist,Mid-range (₹1000-₹5000),Synthetic/Polyester,Tailored,Find color match
+Dark,Plus-size,Female,Adult (26-35),Mild/Pleasant,Casual Outing,Classic/Preppy,Mid-range (₹1000-₹5000),Cotton,Relaxed,Find color match
+Earthy,Apple,Non-binary,Senior (51+),Cold & Windy,Beach/Vacation,Classic/Preppy,Premium (₹5000-₹15000),Cotton,Oversized,Find color match
+Multicolor,Pear,Non-binary,Mid Adult (36-50),Mild/Pleasant,Formal Event,Streetwear,Budget (<₹1000),Cotton,Regular Fit,Occasion-specific look
+Pastel,Rectangle,Female,Adult (26-35),Humid,Beach/Vacation,Minimalist,Budget (<₹1000),Synthetic/Polyester,Slim Fit,Style advice for body type
+Pastel,Plus-size,Male,Mid Adult (36-50),Humid,Office/Work,Bohemian,Mid-range (₹1000-₹5000),Synthetic/Polyester,Tailored,Accessory suggestion
+Monochrome,Pear,Non-binary,Adult (26-35),Cold & Windy,Office/Work,Vintage,Mid-range (₹1000-₹5000),Cotton,Oversized,Layering tips
+Multicolor,Pear,Female,Young Adult (18-25),Hot & Sunny,Beach/Vacation,Business Casual,Budget (<₹1000),Linen,Oversized,Weather-appropriate outfit
+Earthy,Rectangle,Male,Mid Adult (36-50),Rainy,Formal Event,Business Casual,Mid-range (₹1000-₹5000),Synthetic/Polyester,Regular Fit,Occasion-specific look
+Pastel,Apple,Male,Teen (13-17),Snowy,Job Interview,Minimalist,Premium (₹5000-₹15000),Denim,Slim Fit,Fabric suggestion
+Monochrome,Rectangle,Male,Adult (26-35),Cold & Windy,Wedding Guest,Streetwear,Mid-range (₹1000-₹5000),Wool/Knit,Relaxed,Weather-appropriate outfit
+Neutral,Rectangle,Non-binary,Mid Adult (36-50),Cold & Windy,Job Interview,Business Casual,Luxury (₹15000+),Silk/Satin,Slim Fit,Layering tips
+Dark,Plus-size,Male,Young Adult (18-25),Rainy,Sports/Gym,Classic/Preppy,Mid-range (₹1000-₹5000),Wool/Knit,Slim Fit,Layering tips
+Neutral,Hourglass,Female,Senior (51+),Hot & Sunny,Sports/Gym,Glamorous,Luxury (₹15000+),No preference,Slim Fit,Fabric suggestion
+Monochrome,Pear,Male,Senior (51+),Hot & Sunny,Sports/Gym,Classic/Preppy,Mid-range (₹1000-₹5000),Silk/Satin,Regular Fit,Weather-appropriate outfit
+Dark,Hourglass,Male,Mid Adult (36-50),Snowy,Wedding Guest,Streetwear,Luxury (₹15000+),No preference,Relaxed,Get outfit recommendation
+Monochrome,Rectangle,Male,Mid Adult (36-50),Cold & Windy,Date Night,Business Casual,Budget (<₹1000),No preference,Slim Fit,Layering tips
+Dark,Apple,Non-binary,Teen (13-17),Rainy,Sports/Gym,Sporty,Mid-range (₹1000-₹5000),No preference,Slim Fit,Accessory suggestion
+Dark,Hourglass,Non-binary,Adult (26-35),Hot & Sunny,Office/Work,Glamorous,Premium (₹5000-₹15000),Linen,Relaxed,Get outfit recommendation
+Bold/Bright,Apple,Male,Senior (51+),Snowy,Office/Work,Classic/Preppy,Mid-range (₹1000-₹5000),Silk/Satin,Oversized,Find color match
+Dark,Rectangle,Non-binary,Senior (51+),Snowy,Party/Night Out,Classic/Preppy,Premium (₹5000-₹15000),Silk/Satin,Regular Fit,Layering tips
+Bold/Bright,Hourglass,Male,Adult (26-35),Rainy,Beach/Vacation,Business Casual,Budget (<₹1000),Linen,Relaxed,Occasion-specific look
+Monochrome,Inverted Triangle,Female,Teen (13-17),Cold & Windy,Beach/Vacation,Bohemian,Budget (<₹1000),Linen,Oversized,Occasion-specific look
+Neutral,Hourglass,Male,Adult (26-35),Hot & Sunny,Formal Event,Business Casual,Mid-range (₹1000-₹5000),No preference,Oversized,Get outfit recommendation
+Bold/Bright,Rectangle,Non-binary,Senior (51+),Cold & Windy,Beach/Vacation,Vintage,Luxury (₹15000+),Linen,Slim Fit,Occasion-specific look
+Pastel,Hourglass,Male,Young Adult (18-25),Humid,Date Night,Glamorous,Premium (₹5000-₹15000),Synthetic/Polyester,Regular Fit,Fabric suggestion
+Earthy,Petite,Non-binary,Senior (51+),Humid,Beach/Vacation,Business Casual,Premium (₹5000-₹15000),Wool/Knit,Oversized,Occasion-specific look
+Pastel,Plus-size,Female,Young Adult (18-25),Mild/Pleasant,Date Night,Sporty,Budget (<₹1000),Denim,Regular Fit,Occasion-specific look
+Monochrome,Pear,Non-binary,Young Adult (18-25),Snowy,Festival,Sporty,Mid-range (₹1000-₹5000),Denim,Oversized,Style advice for body type
+Pastel,Hourglass,Male,Adult (26-35),Humid,Formal Event,Business Casual,Premium (₹5000-₹15000),Silk/Satin,Oversized,Weather-appropriate outfit
+Earthy,Petite,Male,Adult (26-35),Rainy,Formal Event,Vintage,Luxury (₹15000+),Wool/Knit,Oversized,Occasion-specific look
+Neutral,Hourglass,Female,Mid Adult (36-50),Cold & Windy,Beach/Vacation,Vintage,Mid-range (₹1000-₹5000),Cotton,Relaxed,Accessory suggestion
