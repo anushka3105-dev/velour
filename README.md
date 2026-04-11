@@ -23,11 +23,11 @@ VELOUR understands what you want to wear through natural language, suggests outf
 
 | Layer | Technology |
 |---|---|
-| UI | Streamlit, custom CSS |
+| UI | Streamlit |
 | ML — Intent | TF-IDF Vectoriser + Multinomial Naive Bayes |
 | ML — Rating | Support Vector Machine (RBF kernel) |
 | Data | Pandas, NumPy, Scikit-learn |
-| Auth & DB | Supabase (PostgreSQL), SHA-256 |
+| Auth & DB | Supabase (PostgreSQL) |
 | Language | Python 3.10+ |
 
 ---
