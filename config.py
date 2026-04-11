@@ -1,10 +1,8 @@
 import os
-from dotenv import load_dotenv
+import streamlit as st
 
-load_dotenv()
-
-SUPABASE_URL = os.getenv("SUPABASE_URL")
-SUPABASE_ANON_KEY = os.getenv("SUPABASE_ANON_KEY")
+SUPABASE_URL = st.secrets.get("SUPABASE_URL")
+SUPABASE_KEY = st.secrets.get("SUPABASE_ANON_KEY")
 
 OPENWEATHER_API_KEY = "your-openweathermap-key-here"   # ← paste your key
 
